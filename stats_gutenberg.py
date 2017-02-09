@@ -97,6 +97,33 @@ def get_lcsh(g):
       lcsh.add(subject)
   return lcsh
 
+def enumerate_parsed(meta_file_names, callback):
+  for meta_file_name in meta_file_names:
+    try:
+      g = rdflib.Graph()
+      g.load(meta_file_name)
+
+      title = get_title(g)
+      author = get_author(g)
+      author_birth_year = get_author_birth_year(g)
+      language = get_language(g)
+      lcc = get_lcc(g)
+      lcsh = get_lcsh(g)
+
+      meta_dict = {
+        "title": title,
+        "author": author,
+        "author_birth_year": author_birth_year,
+        "language": language,
+        "lcc": lcc,
+        "lcsh_subjects": lcsh
+      }
+
+      callback(meta_dict, meta_file_name)
+    except UnicodeEncodeError as e:
+      sys.stderr.write("UNPROCESSABLE: " + meta_file_name + "\n")
+      sys.stderr.write("ENCOUNTERED: " + str(e) + "\n\n")
+
 
 all_author_birth_decades = Counter()
 all_languages = Counter()
@@ -108,48 +135,45 @@ csv_file = open('stats.csv', 'w')
 csv_writer = csv.writer(csv_file)
 csv_writer.writerow(("Title", "Author", "Author Birth Year", "Languuage", "LCC (General)", "LCC (Full)"))
 
-for meta_file_name in sys.argv[1:]:
-  try:
-    g = rdflib.Graph()
-    print meta_file_name
-    g.load(meta_file_name)
+def add_to_stats(meta_dict, meta_file_name):
+  print meta_file_name
 
-    title = get_title(g)
-    author = get_author(g)
-    author_birth_year = get_author_birth_year(g)
-    language = get_language(g)
-    lcc = get_lcc(g)
-    lcc_general = lcc
-    if "UNKNOWN" not in lcc_general:
-      lcc_general = lcc_general[0]
-    lcsh = get_lcsh(g)
+  title = meta_dict["title"]
+  author = meta_dict["author"]
+  author_birth_year = meta_dict["author_birth_year"]
+  language = meta_dict["language"]
+  lcc = meta_dict["lcc"]
+  lcsh = meta_dict["lcsh_subjects"]
+  lcc_general = lcc
+  if "UNKNOWN" not in lcc_general:
+    lcc_general = lcc_general[0]
 
-    csv_writer.writerow((title, author, author_birth_year, language, lcc_general, lcc))
+  csv_writer.writerow((title, author, author_birth_year, language, lcc_general, lcc))
 
-    print "TITLE:    " + title
-    print "AUTHOR:   (" + str(author_birth_year) + ") " + author
-    print "LANG:     " + language
-    print "LCC:      " + lcc
-    print "----"
-    for subject in lcsh:
-      print "SUBJECT:  " + subject
+  print "TITLE:    " + title
+  print "AUTHOR:   (" + str(author_birth_year) + ") " + author
+  print "LANG:     " + language
+  print "LCC:      " + lcc
+  print "----"
+  for subject in lcsh:
+    print "SUBJECT:  " + subject
 
-    print ""
-    print ""
+  print ""
+  print ""
 
-    if type(author_birth_year) == int:
-      author_birth_decade = int(author_birth_year / 10) * 10
-    else:
-      author_birth_decade = author_birth_year
+  if type(author_birth_year) == int:
+    author_birth_decade = int(author_birth_year / 10) * 10
+  else:
+    author_birth_decade = author_birth_year
 
-    all_author_birth_decades.update([author_birth_decade])
-    all_languages.update([language])
-    all_lcc_general.update([lcc_general])
-    all_lcc.update([lcc])
-    all_lcsh.update(lcsh)
-  except UnicodeEncodeError as e:
-    sys.stderr.write("UNPROCESSABLE: " + meta_file_name + "\n")
-    sys.stderr.write("ENCOUNTERED: " + str(e) + "\n\n")
+  all_author_birth_decades.update([author_birth_decade])
+  all_languages.update([language])
+  all_lcc_general.update([lcc_general])
+  all_lcc.update([lcc])
+  all_lcsh.update(lcsh)
+
+
+enumerate_parsed(sys.argv[1:], add_to_stats)
 
 csv_file.close()
 
