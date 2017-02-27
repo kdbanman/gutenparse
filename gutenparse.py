@@ -1,13 +1,11 @@
-from collections import Counter
-import csv
+
 import rdflib
-import sys
 
 def get_title(g):
   query_string = """
     SELECT ?title WHERE {
       ?book a <http://www.gutenberg.org/2009/pgterms/ebook> .
-      ?book dcterms:title ?title 
+      ?book dcterms:title ?title
     }
   """
   results = g.query(query_string)
@@ -28,7 +26,7 @@ def get_author_birth_year(g):
   year = "UNKNOWN YEAR"
   for row in results:
     year = int(row[0].toPython())
-  return year 
+  return year
 
 def get_author(g):
   query_string = """
@@ -56,7 +54,7 @@ def get_language(g):
   language = "UNKNOWN LANGUAGE"
   for row in results:
     language = row[0].toPython()
-  return language 
+  return language
 
 def get_lcc(g):
   query_string = """
@@ -123,4 +121,3 @@ def enumerate_parsed(meta_file_names, callback):
     except UnicodeEncodeError as e:
       sys.stderr.write("UNPROCESSABLE: " + meta_file_name + "\n")
       sys.stderr.write("ENCOUNTERED: " + str(e) + "\n\n")
-
