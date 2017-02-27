@@ -94,7 +94,8 @@ def get_lcsh(g):
       lcsh.update(subject.split(" -- "))
     else:
       lcsh.add(subject)
-  return lcsh
+
+  return [subject.encode('utf-8') for subject in lcsh]
 
 def enumerate_parsed(meta_file_names, callback):
   for meta_file_name in meta_file_names:
