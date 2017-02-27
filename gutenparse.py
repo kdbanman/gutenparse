@@ -8,6 +8,7 @@ def get_title(g):
       ?book a <http://www.gutenberg.org/2009/pgterms/ebook> .
       ?book dcterms:title ?title
     }
+    ORDER BY DESC(?title)
   """
   results = g.query(query_string)
   title = "UNKNOWN TITLE"
@@ -22,6 +23,7 @@ def get_author_birth_year(g):
       ?book dcterms:creator ?a .
       ?a <http://www.gutenberg.org/2009/pgterms/birthdate> ?year
     }
+    ORDER BY DESC(?year)
   """
   results = g.query(query_string)
   year = "UNKNOWN YEAR"
@@ -36,6 +38,7 @@ def get_author(g):
       ?book dcterms:creator ?a .
       ?a <http://www.gutenberg.org/2009/pgterms/name> ?author
     }
+    ORDER BY DESC(?author)
   """
   results = g.query(query_string)
   author = "UNKNOWN AUTHOR"
@@ -50,6 +53,7 @@ def get_language(g):
       ?book dcterms:language ?l .
       ?l rdf:value ?lang
     }
+    ORDER BY DESC(?lang)
   """
   results = g.query(query_string)
   language = "UNKNOWN LANGUAGE"
@@ -65,6 +69,7 @@ def get_lcc(g):
       ?s dcam:memberOf dcterms:LCC .
       ?s rdf:value ?subject
     }
+    ORDER BY DESC(?subject)
   """
   results = g.query(query_string)
   lcc = "UNKNOWN LCC"
@@ -80,6 +85,7 @@ def get_lcsh(g):
       ?s dcam:memberOf dcterms:LCSH .
       ?s rdf:value ?subject
     }
+    ORDER BY DESC(?subject)
   """
   results = g.query(query_string)
   lcsh = set()
@@ -98,6 +104,8 @@ def get_lcsh(g):
   return [subject.encode('utf-8') for subject in lcsh]
 
 def enumerate_parsed(meta_file_names, callback):
+  print "Processing " + str(len(meta_file_names)) + " meta files...\n"
+
   for meta_file_name in meta_file_names:
     try:
       g = rdflib.Graph()
