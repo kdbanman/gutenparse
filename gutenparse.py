@@ -1,5 +1,6 @@
 
 import rdflib
+import sys
 
 def get_title(g):
   query_string = """
