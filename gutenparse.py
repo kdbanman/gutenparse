@@ -121,6 +121,4 @@ def enumerate_parsed(meta_file_names, callback):
 
       callback(meta_dict, meta_file_name)
     except UnicodeEncodeError as e:
-      sys.stderr.write("UNPROCESSABLE: " + meta_file_name + "\n")
-      sys.stderr.write("ENCOUNTERED: " + str(e) + "\n\n")
-
+      callback(None, meta_file_name)

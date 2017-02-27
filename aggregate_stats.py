@@ -13,6 +13,11 @@ if __name__ == "__main__":
   csv_writer.writerow(("Title", "Author", "Author Birth Year", "Languuage", "LCC (General)", "LCC (Full)"))
   
   def add_to_stats(meta_dict, meta_file_name):
+    if meta_dict == None:
+      sys.stderr.write("UNPROCESSABLE: " + meta_file_name + "\n")
+      sys.stderr.write("ENCOUNTERED: " + str(e) + "\n\n")
+      return
+
     print meta_file_name
   
     title = meta_dict["title"]
