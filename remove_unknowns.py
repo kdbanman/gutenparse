@@ -1,8 +1,9 @@
-import gutenparse
 import sys
 import os
 import shutil
+from collections import Counter
 
+import gutenparse
 
 def get_unknowns(meta_dict):
   """
@@ -28,12 +29,17 @@ def get_unknowns(meta_dict):
     unknowns.append("lcc")
 
   return unknowns
-  
+
 
 if __name__ == "__main__":
+  dry_run = False
+  if sys.argv[-1] == "--dry":
+    dry_run = True
+    sys.argv.pop()
+
   all_unknowns = Counter()
-  removed = 0
-  
+  removed = []
+
   def remove_if_unknown(meta_dict, meta_file_name):
     unknowns = get_unknowns(meta_dict)
     if len(unknowns) != 0:
@@ -44,14 +50,15 @@ if __name__ == "__main__":
       print unknowns
       print ""
 
-      #shutil.rmtree(book_directory)
+      if not dry_run:
+          shutil.rmtree(book_directory)
 
-      removed += 1
+      removed.append(book_directory)
 
-  gutenparse.enumerate_parsed(sys.argv[1:], remove_if_unknown, all_unknowns)
+  gutenparse.enumerate_parsed(sys.argv[1:], remove_if_unknown)
 
   print "Unknowns encountered during removal:"
-  for countee, count in counter.most_common():
+  for countee, count in all_unknowns.most_common():
     print countee + " (" + str(count) + ")"
 
-  print "\nRemoved " + str(removed) + " books."
+  print "\nRemoved " + str(len(removed)) + " books."
