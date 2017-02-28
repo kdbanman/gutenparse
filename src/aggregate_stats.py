@@ -1,6 +1,6 @@
 
 import sys
-import csv
+import unicodecsv as csv
 from collections import Counter
 
 import gutenparse
@@ -37,7 +37,7 @@ if __name__ == "__main__":
     print "LCC:      " + lcc
     print "----"
     for subject in lcsh:
-      print "SUBJECT:  " + subject
+      print "LCSH SUBJECT:  " + subject
 
     print ""
     print ""
@@ -67,12 +67,12 @@ if __name__ == "__main__":
 
   def print_counter(counter):
     for countee, count in counter.most_common():
-      if type(countee) == int:
+      if type(countee) == int || type(countee) == long:
         countee = str(countee)
       elif type(countee) == unicode:
         countee = countee.encode('utf-8')
 
-      print countee + " (" + str(count) + ")"
+      print str(countee) + " (" + str(count) + ")"
 
   print "ALL AUTHOR BIRTH DECADES:"
   print_counter(all_author_birth_decades)
