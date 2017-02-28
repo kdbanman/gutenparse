@@ -4,7 +4,7 @@ to write:
 
 - balance lcc subjects
   - _could_ get clever
-    - parse out single letters. might not need to, or might be a bad idea.
+    - parse out single letters. might not need to, or might be a bad idea. (currently doing this though)
     - remove specifics. (EX: E456)
   - might be best to just leave codes as-is and
     - remove under-represented
