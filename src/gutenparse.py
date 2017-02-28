@@ -18,6 +18,21 @@ def get_single_result(g, query_string, label):
 
     return result
 
+def get_multiple_results(g, query_string, calculate_result_list):
+  results = g.query(query_string)
+  result_set = set()
+
+  for row in results:
+    result = row[0].toPython()
+    if result is None:
+      continue
+
+    result_set.update(calculate_result_list(result))
+
+  return [result.encode('utf-8') for result in result_set]
+
+
+
 def get_title(g):
   query_string = """
     SELECT ?title WHERE {
@@ -71,7 +86,11 @@ def get_lcc(g):
     }
     ORDER BY DESC(?subject)
   """
-  return get_single_result(g, query_string, "lcc")
+
+  def calculate_result_list(result):
+    return [result[0], result]
+
+  return get_multiple_results(g, query_string, calculate_result_list)
 
 def get_lcsh(g):
   query_string = """
@@ -83,19 +102,14 @@ def get_lcsh(g):
     }
     ORDER BY DESC(?subject)
   """
-  results = g.query(query_string)
-  lcsh = set()
-  for row in results:
-    subject = row[0].toPython()
-    if subject is None:
-      continue
 
-    if " -- " in subject:
-      lcsh.update(subject.split(" -- "))
+  def calculate_result_list(result):
+    if " -- " in result:
+      return result.split(" -- ")
     else:
-      lcsh.add(subject)
+      return [result]
 
-  return [subject.encode('utf-8') for subject in lcsh]
+  return get_multiple_results(g, query_string, calculate_result_list)
 
 def enumerate_parsed(meta_file_names, callback):
   print "Processing " + str(len(meta_file_names)) + " meta files...\n"
@@ -116,7 +130,7 @@ def enumerate_parsed(meta_file_names, callback):
     "author": author,
     "author_birth_year": author_birth_year,
     "language": language,
-    "lcc": lcc,
+    "lcc_subjects": lcc,
     "lcsh_subjects": lcsh
     }
 

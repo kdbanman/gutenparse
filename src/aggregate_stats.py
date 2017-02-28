@@ -8,13 +8,12 @@ import gutenparse
 if __name__ == "__main__":
   all_author_birth_decades = Counter()
   all_languages = Counter()
-  all_lcc_general = Counter()
   all_lcc = Counter()
   all_lcsh = Counter()
 
   csv_file = open('stats.csv', 'w')
   csv_writer = csv.writer(csv_file)
-  csv_writer.writerow(("Title", "Author", "Author Birth Year", "Languuage", "LCC (General)", "LCC (Full)"))
+  csv_writer.writerow(("Title", "Author", "Author Birth Year", "Language", "LCC Subjects"))
 
   def add_to_stats(meta_dict, meta_file_name):
     print meta_file_name
@@ -23,18 +22,17 @@ if __name__ == "__main__":
     author = meta_dict["author"]
     author_birth_year = meta_dict["author_birth_year"]
     language = meta_dict["language"]
-    lcc = meta_dict["lcc"]
+    lcc = meta_dict["lcc_subjects"]
     lcsh = meta_dict["lcsh_subjects"]
-    lcc_general = lcc
-    if "UNKNOWN" not in lcc_general:
-      lcc_general = lcc_general[0]
 
-    csv_writer.writerow((title, author, author_birth_year, language, lcc_general, lcc))
+    csv_writer.writerow((title, author, author_birth_year, language, ' '.join(lcc)))
 
     print "TITLE:    " + title
     print "AUTHOR:   (" + str(author_birth_year) + ") " + author
     print "LANG:     " + language
-    print "LCC:      " + lcc
+    print "----"
+    for subject in lcc:
+      print "LCC SUBJECT:      " + subject
     print "----"
     for subject in lcsh:
       print "LCSH SUBJECT:  " + subject
@@ -49,8 +47,7 @@ if __name__ == "__main__":
 
     all_author_birth_decades.update([author_birth_decade])
     all_languages.update([language])
-    all_lcc_general.update([lcc_general])
-    all_lcc.update([lcc])
+    all_lcc.update(lcc)
     all_lcsh.update(lcsh)
 
 
@@ -67,12 +64,20 @@ if __name__ == "__main__":
 
   def print_counter(counter):
     for countee, count in counter.most_common():
-      if type(countee) == int || type(countee) == long:
+      if type(countee) == int or type(countee) == long:
         countee = str(countee)
       elif type(countee) == unicode:
         countee = countee.encode('utf-8')
 
       print str(countee) + " (" + str(count) + ")"
+
+  print ""
+  print "ALL LCSH SUBJECTS:"
+  print_counter(all_lcsh)
+
+  print ""
+  print "ALL LCC SUBJECTS:"
+  print_counter(all_lcc)
 
   print "ALL AUTHOR BIRTH DECADES:"
   print_counter(all_author_birth_decades)
@@ -80,16 +85,3 @@ if __name__ == "__main__":
   print ""
   print "ALL LANGUAGES:"
   print_counter(all_languages)
-
-  print ""
-  print "ALL LCC GENERAL SUBJECTS:"
-  print_counter(all_lcc_general)
-
-
-  print ""
-  print "ALL LCC SUBJECTS:"
-  print_counter(all_lcc)
-
-  print ""
-  print "ALL LCSH SUBJECTS:"
-  print_counter(all_lcsh)
