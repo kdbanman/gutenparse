@@ -1,7 +1,5 @@
 to write:
 
-- remove multiple authors
-
 - balance lcc subjects
   - _could_ get clever
     - parse out single letters. might not need to, or might be a bad idea. (currently doing this though)
