@@ -18,7 +18,7 @@ def get_single_result(g, query_string, label):
 
     return result
 
-def get_multiple_results(g, query_string, calculate_result_list):
+def get_multiple_results(g, query_string, calculate_result_list=None):
   results = g.query(query_string)
   result_set = set()
 
@@ -27,7 +27,10 @@ def get_multiple_results(g, query_string, calculate_result_list):
     if result is None:
       continue
 
-    result_set.update(calculate_result_list(result))
+    if calculate_result_list == None:
+      result_set.add(result)
+    else:
+      result_set.update(calculate_result_list(result))
 
   return [result.encode('utf-8') for result in result_set]
 
@@ -65,7 +68,7 @@ def get_author(g):
   """
   return get_single_result(g, query_string, "author").encode('utf-8')
 
-def get_language(g):
+def get_languages(g):
   query_string = """
     SELECT ?lang WHERE {
       ?book a <http://www.gutenberg.org/2009/pgterms/ebook> .
@@ -74,7 +77,7 @@ def get_language(g):
     }
     ORDER BY DESC(?lang)
   """
-  return get_single_result(g, query_string, "language")
+  return get_multiple_results(g, query_string)
 
 def get_lcc(g):
   query_string = """
@@ -121,7 +124,7 @@ def enumerate_parsed(meta_file_names, callback):
     title = get_title(g)
     author = get_author(g)
     author_birth_year = get_author_birth_year(g)
-    language = get_language(g)
+    languages = get_languages(g)
     lcc = get_lcc(g)
     lcsh = get_lcsh(g)
 
@@ -129,7 +132,7 @@ def enumerate_parsed(meta_file_names, callback):
     "title": title,
     "author": author,
     "author_birth_year": author_birth_year,
-    "language": language,
+    "languages": languages,
     "lcc_subjects": lcc,
     "lcsh_subjects": lcsh
     }

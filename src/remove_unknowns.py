@@ -6,16 +6,6 @@ from collections import Counter
 import gutenparse
 
 def get_unknowns(meta_dict):
-  """
-  meta_dict = {
-    "title": title,
-    "author": author,
-    "author_birth_year": author_birth_year,
-    "language": language,
-    "lcc": lcc,
-    "lcsh_subjects": lcsh
-  }
-  """
   unknowns = []
   if "UNKNOWN" in meta_dict["title"]:
     unknowns.append("title")
@@ -23,9 +13,9 @@ def get_unknowns(meta_dict):
     unknowns.append("author")
   if "UNKNOWN" in str(meta_dict["author_birth_year"]):
     unknowns.append("author_birth_year")
-  if "UNKNOWN" in meta_dict["language"]:
+  if len(meta_dict["languages"]) == 0:
     unknowns.append("language")
-  if "UNKNOWN" in meta_dict["lcc"]:
+  if len(meta_dict["lcc_subjects"]) == 0:
     unknowns.append("lcc")
 
   return unknowns

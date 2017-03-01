@@ -13,7 +13,7 @@ if __name__ == "__main__":
 
   csv_file = open('stats.csv', 'w')
   csv_writer = csv.writer(csv_file)
-  csv_writer.writerow(("Title", "Author", "Author Birth Year", "Language", "LCC Subjects"))
+  csv_writer.writerow(("Title", "Author", "Author Birth Year", "Languages", "LCC Subjects"))
 
   def add_to_stats(meta_dict, meta_file_name):
     print meta_file_name
@@ -21,15 +21,15 @@ if __name__ == "__main__":
     title = meta_dict["title"]
     author = meta_dict["author"]
     author_birth_year = meta_dict["author_birth_year"]
-    language = meta_dict["language"]
+    languages = meta_dict["languages"]
     lcc = meta_dict["lcc_subjects"]
     lcsh = meta_dict["lcsh_subjects"]
 
-    csv_writer.writerow((title, author, author_birth_year, language, ' '.join(lcc)))
+    csv_writer.writerow((title, author, author_birth_year, ' '.join(languages), ' '.join(lcc)))
 
     print "TITLE:    " + title
     print "AUTHOR:   (" + str(author_birth_year) + ") " + author
-    print "LANG:     " + language
+    print "LANGUAGES:     " + " ".join(languages)
     print "----"
     for subject in lcc:
       print "LCC SUBJECT:      " + subject
@@ -46,7 +46,7 @@ if __name__ == "__main__":
       author_birth_decade = author_birth_year
 
     all_author_birth_decades.update([author_birth_decade])
-    all_languages.update([language])
+    all_languages.update(languages)
     all_lcc.update(lcc)
     all_lcsh.update(lcsh)
 
@@ -79,6 +79,7 @@ if __name__ == "__main__":
   print "ALL LCC SUBJECTS:"
   print_counter(all_lcc)
 
+  print ""
   print "ALL AUTHOR BIRTH DECADES:"
   print_counter(all_author_birth_decades)
 

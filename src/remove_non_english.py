@@ -16,13 +16,12 @@ if __name__ == "__main__":
   removed = []
 
   def remove_if_not_english(meta_dict, meta_file_name):
-    language = meta_dict["language"].upper()
-    print language
-    if language != "EN":
+    languages = [language.upper() for language in meta_dict["languages"]]
+    if "EN" not in languages:
       book_directory = os.path.dirname(os.path.realpath(meta_file_name))
-      all_non_english_languages.update([language])
+      all_non_english_languages.update(languages)
 
-      print "Removing " + language + " " + book_directory
+      print "Removing " + ", ".join(languages) + " " + book_directory
 
       if not dry_run:
           shutil.rmtree(book_directory)
