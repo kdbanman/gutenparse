@@ -1,6 +1,6 @@
 # gutenparse
 
-This project has a few parts, all of which are designed to help me curate the Labelled and Balanced Gutenberg Bookset (LABGUB).
+This project has a few parts, all of which are designed to help me curate the Labelled and Balanced Gutenberg Bookset (LabGub).
 
 1. `gutenparse.py`
 
