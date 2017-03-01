@@ -9,10 +9,8 @@ def get_unknowns(meta_dict):
   unknowns = []
   if "UNKNOWN" in meta_dict["title"]:
     unknowns.append("title")
-  if "UNKNOWN" in meta_dict["author"]:
+  if len(meta_dict["authors"]) == 0:
     unknowns.append("author")
-  if "UNKNOWN" in str(meta_dict["author_birth_year"]):
-    unknowns.append("author_birth_year")
   if len(meta_dict["languages"]) == 0:
     unknowns.append("language")
   if len(meta_dict["lcc_subjects"]) == 0:

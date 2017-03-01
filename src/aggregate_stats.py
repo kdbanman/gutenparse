@@ -13,22 +13,23 @@ if __name__ == "__main__":
 
   csv_file = open('stats.csv', 'w')
   csv_writer = csv.writer(csv_file)
-  csv_writer.writerow(("Title", "Author", "Author Birth Year", "Languages", "LCC Subjects"))
+  csv_writer.writerow(("Title", "Authors", "Author Birth Years", "Languages", "LCC Subjects"))
 
   def add_to_stats(meta_dict, meta_file_name):
     print meta_file_name
 
     title = meta_dict["title"]
-    author = meta_dict["author"]
-    author_birth_year = meta_dict["author_birth_year"]
+    author_names = map(lambda author: author["name"], meta_dict["authors"])
+    author_birth_years = map(lambda author: author["birth_year"], meta_dict["authors"])
     languages = meta_dict["languages"]
     lcc = meta_dict["lcc_subjects"]
     lcsh = meta_dict["lcsh_subjects"]
 
-    csv_writer.writerow((title, author, author_birth_year, ' '.join(languages), ' '.join(lcc)))
+    csv_writer.writerow((title, " -- ".join(author_names), " ".join(map(str, author_birth_years)), ' '.join(languages), ' '.join(lcc)))
 
     print "TITLE:    " + title
-    print "AUTHOR:   (" + str(author_birth_year) + ") " + author
+    for author in meta_dict["authors"]:
+      print "AUTHOR:   (" + str(author["birth_year"]) + ") " + author["name"]
     print "LANGUAGES:     " + " ".join(languages)
     print "----"
     for subject in lcc:
@@ -40,12 +41,14 @@ if __name__ == "__main__":
     print ""
     print ""
 
-    if type(author_birth_year) == int:
-      author_birth_decade = int(author_birth_year / 10) * 10
-    else:
-      author_birth_decade = author_birth_year
+    author_birth_decades = []
+    for author_birth_year in author_birth_years:
+      if type(author_birth_year) == int:
+        author_birth_decades.append(int(author_birth_year / 10) * 10)
+      else:
+        author_birth_decades.append(author_birth_year)
 
-    all_author_birth_decades.update([author_birth_decade])
+    all_author_birth_decades.update(author_birth_decades)
     all_languages.update(languages)
     all_lcc.update(lcc)
     all_lcsh.update(lcsh)

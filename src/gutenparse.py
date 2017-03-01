@@ -46,27 +46,30 @@ def get_title(g):
   """
   return get_single_result(g, query_string, "title").encode('utf-8')
 
-def get_author_birth_year(g):
+def get_authors(g):
   query_string = """
-    SELECT ?year WHERE {
+    SELECT ?author ?year WHERE {
       ?book a <http://www.gutenberg.org/2009/pgterms/ebook> .
       ?book dcterms:creator ?a .
+      ?a <http://www.gutenberg.org/2009/pgterms/name> ?author .
       ?a <http://www.gutenberg.org/2009/pgterms/birthdate> ?year
-    }
-    ORDER BY DESC(?year)
-  """
-  return get_single_result(g, query_string, "year")
-
-def get_author(g):
-  query_string = """
-    SELECT ?author WHERE {
-      ?book a <http://www.gutenberg.org/2009/pgterms/ebook> .
-      ?book dcterms:creator ?a .
-      ?a <http://www.gutenberg.org/2009/pgterms/name> ?author
     }
     ORDER BY DESC(?author)
   """
-  return get_single_result(g, query_string, "author").encode('utf-8')
+  results = g.query(query_string)
+
+  def author_dict(result_row):
+    author_name = result_row[0].toPython()
+    author_birth_year = result_row[1].toPython()
+    if author_name is None or author_birth_year is None:
+      return None
+
+    return {
+      "name": author_name.encode('utf-8'),
+      "birth_year": author_birth_year
+    }
+
+  return [author_dict(row) for row in results if row is not None]
 
 def get_languages(g):
   query_string = """
@@ -122,16 +125,14 @@ def enumerate_parsed(meta_file_names, callback):
     g.load(meta_file_name)
 
     title = get_title(g)
-    author = get_author(g)
-    author_birth_year = get_author_birth_year(g)
+    authors = get_authors(g)
     languages = get_languages(g)
     lcc = get_lcc(g)
     lcsh = get_lcsh(g)
 
     meta_dict = {
     "title": title,
-    "author": author,
-    "author_birth_year": author_birth_year,
+    "authors": authors,
     "languages": languages,
     "lcc_subjects": lcc,
     "lcsh_subjects": lcsh
