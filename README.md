@@ -115,6 +115,7 @@ I started off with a big ol' dump of books from Project Gutenberg's FTP endpoint
 It's just a big ol' directory with a directory for each book, and (hopefully) two files per book directory.
 One RDF metadata file, and one UTF-8 file containing the actual book text.
 
+```
 txt_and_rdf/
     ├── 9043/
     │   ├── pg9043.rdf
@@ -132,6 +133,7 @@ txt_and_rdf/
     |   ├── pg9047.rdf
     |   └── pg9047.txt.utf8
     ...
+```
 
 The first thing I did is remove all files except those RDF and UTF-8 files, then remove the empty directories, and then remove the directories with only one file.
 Of course I didn't record how much data I was deleting in this process, or the bash pipe soup that actually did the magic, but the audit trail starts now!
