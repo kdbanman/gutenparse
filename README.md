@@ -1,6 +1,6 @@
 # gutenparse
 
-This project has a few parts, all of which are designed to help me curate the Labelled and Balanced Gutenberg Bookset (LABGUB).
+This project has a few parts, all of which are designed to help me curate the Labelled and Balanced Gutenberg Bookset (LabGub).
 
 1. `gutenparse.py`
 
@@ -92,12 +92,13 @@ This project has a few parts, all of which are designed to help me curate the La
       - readonly permissions for all users
   - run each processor script
     1. write a sentence or two saying why this script now
-    2. run script and pipe stdout to log file `python do_shit.py previous_step/*/*.rdf > current_step_log.txt 2>&1 &`
+    2. run script and pipe to log file `python do_shit.py previous_step/*/*.rdf > current_step_log.txt 2>&1 &`
     3. copy log down to local machine `scp lstm-server:data/big_drive/prunes/current_step_log.txt ./`
     4. rename mutated directory `mv previous_step current_step`
     5. back up processed dir with `tar -czf current_step.tar.gz current_step`
   - run analysis script
 
+- actual progress
   - [ ] english_only, **3 is running right now**
   - [ ] labelled_english_only
   - [ ] single_author_labelled_english_only
@@ -167,4 +168,3 @@ $ python remove_non_english.py txt_and_rdf/*/*.rdf
 ```
 
 To see the omitted output of that command, see [this log file](english_only_log.txt)
-
