@@ -298,6 +298,7 @@ Removed 667 books.
 Peek at [the log file](single_author_labelled_english_only.txt) if you wish.
 You might notice an error message - "No handlers could be found for logger "rdflib.term".
 I'm not _exactly_ sure where that's coming from, but we'll dig in later if it becomes a problem.
+Also, notice that the book with multiple titles is gone now!
 
 Some pretty heavy hitting authors got removed!
 George Washington, William Shakespeare, Voltaire, David Hume, Karl Marx, John Quincy Adams, Charles Dickens, Theodore Roosevelt, Confucius...
@@ -310,6 +311,7 @@ Let's back up and measure our last pruning step.
 ```
 $ mv labelled_english_only single_author_labelled_english_only
 $ tar -czf single_author_labelled_english_only.tar.gz single_author_labelled_english_only
+$ chmod -r single_author_labelled_english_only.tar.gz
 $ du -hs single_author_labelled_english_only
 8.7G    single_author_labelled_english_only
 $ ls single_author_labelled_english_only | wc -l
@@ -317,7 +319,12 @@ $ ls single_author_labelled_english_only | wc -l
 ```
 
 Barely lost anything!
-That's it for pruning.
+That's it for pruning, so let's name the directory appropriately.
+
+```
+$ mv single_author_labelled_english_only pruned
+```
+
 Now we'll move on to balancing.
 
 ## Balancing
@@ -330,7 +337,17 @@ You'll see why I care about them in a future post, but for now, let's measure th
 
 TODO
 
-stats csv, aggregate stats.
+```
+$ python aggregate_stats.py single_author_labelled_english_only/*/*.rdf
+
+TODO output
+```
+
+There are two files output at this stage.
+First, the aggregate stats script gives a breakdown of each book's labels and some aggregate statistics in [its log](pruned_stats_log.txt).
+Second, [a CSV file](pruned_books.csv) is output so that we can do some easy analysis with nice tools.
+
+TODO scp in the stats csv, aggregate stats.
 
 lcc subject vs birth year.  correlation?
 
