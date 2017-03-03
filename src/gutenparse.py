@@ -93,10 +93,7 @@ def get_lcc(g):
     ORDER BY DESC(?subject)
   """
 
-  def calculate_result_list(result):
-    return [result[0], result]
-
-  return get_multiple_results(g, query_string, calculate_result_list)
+  return get_multiple_results(g, query_string)
 
 def get_lcsh(g):
   query_string = """
