@@ -139,18 +139,11 @@ txt_and_rdf/
 
 The first thing I did is remove all files except those RDF and UTF-8 files, then remove the empty directories, and then remove the directories with only one file.
 Of course I didn't record how much data I was deleting in this process, or the bash pipe soup that actually did the magic, but the audit trail starts now!
-This is now my starting point, with 159228 books totalling 15 gigabytes of text and metadata:
+This is now my starting point, with 39807 books totalling 15 gigabytes of text and metadata:
 
 ```
 $ ls txt_and_rdf | wc -l
-total 39807
-drwxrwxr-x 2 ec2-user ec2-user 4096 Jan  1 06:00 1
-drwxrwxr-x 2 ec2-user ec2-user 4096 Jan  1 06:01 10
-drwxrwxr-x 2 ec2-user ec2-user 4096 Jan  1 06:16 100
-drwxrwxr-x 2 ec2-user ec2-user 4096 Jan  1 08:15 1000
-drwxrwxr-x 2 ec2-user ec2-user 4096 Jan  6 06:01 10000
-drwxrwxr-x 2 ec2-user ec2-user 4096 Jan  6 06:01 10001
-...
+39807
 ```
 
 ```
