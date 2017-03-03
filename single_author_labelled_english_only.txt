@@ -1,0 +1,1777 @@
+Processing 23238 meta files...
+
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10008 for authors White, Stewart Edward -- Adams, Samuel Hopkins
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10042 for authors Smith, Henrietta Brown -- Murray, E. R. (Elsie Riach)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10056 for authors Mencius -- Confucius
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10073 for authors Greever, Garland -- Bachelor, Joseph M. (Joseph Morris)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10082 for authors Watson, John R. (John Reay) -- Rees, Arthur J. (Arthur John)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10130 for authors Lamb, Mary -- Lamb, Charles
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/1019 for authors Brontë, Emily -- Brontë, Charlotte -- Brontë, Anne
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10314 for authors Michelangelo Buonarroti -- Campanella, Tommaso
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10343 for authors Lamb, Mary -- Lamb, Charles
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10410 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10461 for authors Gregory, Francis Thomas -- Gregory, Augustus Charles
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10587 for authors Somerville, William -- Gay, John -- Addison, Joseph
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10590 for authors Montagu, Mary Wortley, Lady -- Melville, Lewis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10620 for authors Fletcher, John -- Beaumont, Francis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10668 for authors Zimmern, Alfred -- Wilson, John Dover -- Seton-Watson, R. W. (Robert William) -- Greenwood, Arthur
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10700 for authors Lingard, John -- Belloc, Hilaire
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10770 for authors Wilkes, Charles -- Virchow, Rudolf -- Jagor, Fedor
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10797 for authors Wharton, Philip -- Thomson, A. T., Mrs.
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10844 for authors Wise, Thomas A. (Thomas Alfred) -- Toombs, Frederick R. -- Rhodes, Harrison
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10847 for authors Fletcher, John -- Beaumont, Francis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10850 for authors Fletcher, John -- Beaumont, Francis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10851 for authors Lamb, Mary -- Lamb, Charles
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/11000 for authors Jastrow, Morris -- Clay, Albert Tobias
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/11010 for authors Steele, Richard, Sir -- Addison, Joseph
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/11016 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/11027 for authors Grimm, Wilhelm -- Grimm, Jacob
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/11028 for authors Benedict, Laura Estelle Watson -- Bayliss, Clara Kern
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/11213 for authors Sherwood, Mrs. (Mary Martha) -- Kelly, Sophia
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/11254 for authors Smollett, T. (Tobias) -- Parnell, Thomas -- Johnson, Samuel -- Gray, Thomas
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/11278 for authors Balzac, Honoré de -- Amfiteatrov, Aleksandr
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/11436 for authors Taylor, Bayard -- Matthews, Brander -- Davis, Rebecca Harding -- Bunner, H. C. (Henry Cuyler)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/11576 for authors Lamb, Mary -- Lamb, Charles
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/11633 for authors Wagner, Richard -- Huckel, Oliver
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/11708 for authors Nicolay, John G. (John George) -- Hay, John
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/11716 for authors Toynbee, Arnold -- Mitrany, David -- Hogarth, D. G. (David George) -- Forbes, Nevill
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/11772 for authors Savigny, Jean Baptiste Henri -- Corréard, Alexandre
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/11861 for authors Whipple, Wayne -- Aaron, S. F. (Samuel Francis)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/11896 for authors Wright, Mabel Osgood -- Coues, Elliott
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12029 for authors Washington, George -- Conway, Moncure Daniel
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12030 for authors Steele, Richard, Sir -- Addison, Joseph
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12039 for authors Massinger, Philip -- Fletcher, John -- Beaumont, Francis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12040 for authors Fletcher, John -- Beaumont, Francis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12098 for authors Massinger, Philip -- Fletcher, John -- Beaumont, Francis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12110 for authors Fletcher, John -- Beaumont, Francis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12136 for authors Willoughby, William F. (William Franklin) -- Willoughby, Westel Woodbury
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12141 for authors Fletcher, John -- Beaumont, Francis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12221 for authors Fletcher, John -- Beaumont, Francis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12222 for authors Fletcher, John -- Beaumont, Francis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12287 for authors Wade, J. H. (Joseph Henry) -- Wade, G. W. (George Woosung)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12312 for authors Fletcher, John -- Beaumont, Francis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12322 for authors Waller, Edmund -- Denham, John, Sir
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12434 for authors Kent, Charles Foster -- Jenks, Jeremiah Whipple
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12472 for authors Scribe, Eugène -- Legouvé, Ernest
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12565 for authors King, Philip Gidley -- Collins, David
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12606 for authors Whipple, Edwin Percy -- Webster, Daniel
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12649 for authors Newcomb, Arthur -- Blackford, Katherine M. H. (Katherine Melvina Huntsinger)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12668 for authors King, Philip Gidley -- Collins, David -- Bass, George
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12769 for authors Strayer, George D. (George Drayton) -- Norsworthy, Naomi
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12818 for authors Bushnell, Katharine C. (Katharine Caroline) -- Andrew, Elizabeth Wheeler
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12842 for authors Shakespeare, William -- Garrick, David -- Colman, George
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/1286 for authors Lamb, Mary -- Lamb, Charles
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12968 for authors Sanford, Albert Hart -- James, James Alton
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/12992 for authors Jeffery, Walter -- Becke, Louis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/13177 for authors Parloa, Maria -- Hill, Janet McKenzie
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/13191 for authors Sandeau, Jules -- Méry, Joseph -- Girardin, Emile de, Mme. -- Gautier, Théophile
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/13275 for authors Wilson, Harry Leon -- Tarkington, Booth
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/13333 for authors Tocqueville, Alexis de -- Senior, Nassau William
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/13351 for authors Dundonald, Thomas Barnes Cochrane, Earl of -- Bourne, H. R. Fox (Henry Richard Fox)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/13360 for authors Cochrane, Thomas -- Allen, Roland
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/13464 for authors Cooper, John Gilbert -- Armstrong, John
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/13583 for authors Emerson, Ralph Waldo -- Carlyle, Thomas
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/13606 for authors Stevenson, William -- Kerr, Robert
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/13660 for authors Emerson, Ralph Waldo -- Carlyle, Thomas
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/13759 for authors Macdill, David -- Blanchard, Jonathan -- Beecher, Edward
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/13824 for authors Leland, Aaron W. (Aaron Whitney) -- Baldwin, Elihu W. (Elihu Whittlesey)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/13843 for authors Illica, Luigi -- Giacosa, Giuseppe
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/13860 for authors Townsend, W. J. (William John) -- Rowland, Alfred -- Milligan, George -- Adeney, Walter F. (Walter Frederic)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/13933 for authors Marshall, Edward -- Dazey, Charles Turner
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/14025 for authors Somerville, E. Oe. (Edith Oenone) -- Ross, Martin
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/1404 for authors Madison, James -- Jay, John -- Hamilton, Alexander
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/14055 for authors Powdermaker, Florence -- Blunt, Katharine
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/14204 for authors Klein, Charles -- Hornblow, Arthur
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/1423 for authors Dickens, Charles -- Collins, Wilkie
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/14325 for authors Peters, Iva Lowther -- Knight, Melvin Moses
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/14416 for authors Lang, John -- Lang, Jean
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/14548 for authors Fletcher, John -- Beaumont, Francis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/14678 for authors Lucas, E. V. (Edward Verrall) -- Graves, Charles L. (Charles Larcom)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/14740 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/14771 for authors Fletcher, John -- Beaumont, Francis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/14888 for authors Ford, Ford Madox -- Conrad, Joseph
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/14952 for authors Wordsworth, William -- Tennyson, Alfred Tennyson, Baron
+ReNo handlers could be found for logger "rdflib.term"
+moving /home/ec2-user/data/big_drive/prunes/labelled_english_only/15014 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/15120 for authors Pemberton, Murdock -- Hoffenstein, Samuel -- Bernays, Edward L.
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/15170 for authors Tate, W. K. (William Knox) -- Browne, Hetty Sibyl
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/15218 for authors Van Vorst, Marie -- Van Vorst, John, Mrs.
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/15219 for authors Philips, F. C. (Francis Charles) -- Harris, Augustus
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/15290 for authors McFadden, Elizabeth A. (Elizabeth Apthorp) -- Alden, Raymond MacDonald
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/15353 for authors Roessler, Erwin W. (Erwin William) -- Remy, Alfred
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/15435 for authors Lewis, Margaret W. (Margaret Wiseham) -- Buckelew, Sarah F. (Sarah Frances)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/15460 for authors Wohlers, Otto K. -- Milton, Archie Seldon
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/15464 for authors Goudiss, C. Houston (Charles Houston) -- Goudiss, Alberta M. (Alberta Moorhouse)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/15618 for authors Thackeray, William Makepeace -- Dickens, Charles
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/15752 for authors Gorham, George C. (George Congdon) -- Field, Stephen J. (Stephen Johnson)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/15855 for authors Wilson, Harry Leon -- Tarkington, Booth
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/15857 for authors Erskine, Andrew -- Dempster, George -- Boswell, James
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/15937 for authors Baukhage, Hilmar R. (Hilmar Robert) -- Baldridge, Cyrus Leroy
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/15997 for authors Wallace, Alfred Russel -- Marchant, James, Sir
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/15998 for authors Wallace, Alfred Russel -- Marchant, James, Sir
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16046 for authors Blaisdell, Mary Frances -- Blaisdell, Etta Austin
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16058 for authors Leadbeater, C. W. (Charles Webster) -- Besant, Annie
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16064 for authors Heyward, DuBose -- Allen, Hervey
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16073 for authors Woodworth, Francis C. (Francis Channing) -- Arthur, T. S. (Timothy Shay)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16109 for authors Álvarez Quintero, Serafín -- Álvarez Quintero, Joaquín
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16142 for authors Eisenhower, Dwight D. (Dwight David) -- Dulles, John Foster
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16182 for authors Browning, Robert -- Browning, Elizabeth Barrett
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16184 for authors Strong, Sydney -- Soares, Theodore Gerald -- Barton, William Eleazar
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16249 for authors Hornblow, Arthur -- Broadhurst, George Howells
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16269 for authors Leadbeater, C. W. (Charles Webster) -- Besant, Annie
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16282 for authors March, Francis Andrew -- Beamish, Richard Joseph
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16317 for authors Esenwein, J. Berg (Joseph Berg) -- Carnegie, Dale
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16344 for authors Verne, Jules -- Laurie, André
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16463 for authors Mc Donald, R. D. (Roelof Daniel) -- Kritzinger, P. H. (Pieter Hendrick)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16516 for authors Walker, David -- Garnet, Henry Highland
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16565 for authors Lewis, Meriwether -- Clark, William
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16703 for authors Moore, Arthur -- Dowson, Ernest Christopher
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16766 for authors Somerville, E. Oe. (Edith Oenone) -- Ross, Martin
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16791 for authors Overton, John Henry -- Abbey, Charles J. (Charles John)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16951 for authors Edgeworth, Richard Lovell -- Edgeworth, Maria
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16960 for authors Beard, Mary Ritter -- Beard, Charles A. (Charles Austin)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16968 for authors Towne, Charles Hanson -- Browne, Porter Emerson
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/16996 for authors Muir, William, Sir -- Mitchell, J. Murray (John Murray)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/1705 for authors Williams, Henry Smith -- Williams, Edward Huntington
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/1706 for authors Williams, Henry Smith -- Williams, Edward Huntington
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/1707 for authors Williams, Henry Smith -- Williams, Edward Huntington
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/1708 for authors Williams, Henry Smith -- Williams, Edward Huntington
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/17342 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/17395 for authors Conway, William Martin, Sir -- Conway, Agnes Ethel
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/17635 for authors Christophe, Jules François -- Cerfberr, Anatole
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/17642 for authors Ford, Ford Madox -- Conrad, Joseph
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/17667 for authors Montagu, Mrs. (Elizabeth) -- Lyttelton, George Lyttelton, Baron
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/17743 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/17800 for authors Warner, Susan -- Warner, Anna Bartlett
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/17804 for authors Ormsbee, Thomas H. (Thomas Hamilton) -- Ormsbee, Renee Richmond Huntley
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/17841 for authors Marshall, Edward -- Dazey, Charles Turner
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/17966 for authors Vorhies, Charles Taylor -- Taylor, Walter P. (Walter Penn)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18007 for authors Hovey, Richard -- Carman, Bliss
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18020 for authors Wharton, Philip -- Thomson, A. T., Mrs.
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18050 for authors Howard, L. O. (Leland Ossian) -- Bishopp, F. C. (Fred Corry)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18140 for authors Kingsley, Florence Morse -- Freeman, Mary Eleanor Wilkins
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18154 for authors Webster, Henry Kitchell -- Merwin, Samuel
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18238 for authors Hovey, Richard -- Carman, Bliss
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18346 for authors Piper, H. Beam -- McGuire, John Joseph
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18444 for authors Butterworth, Hezekiah -- Brown, Theron
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18470 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18500 for authors Cunningham, Allan -- Burns, Robert
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18506 for authors Cameron, Verney Lovett -- Burton, Richard Francis, Sir
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18517 for authors Settle, Elkanah -- Pordage, Samuel
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18625 for authors Rickert, Edith -- Manly, John Matthews
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18641 for authors Piper, H. Beam -- McGuire, John Joseph
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/1864 for authors Roosevelt, Theodore -- Lodge, Henry Cabot
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18677 for authors Rock, Charles -- Jacobs, W. W. (William Wymark)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18754 for authors Hilker, Leafy Jane Corrington -- Fink, Bruce
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18765 for authors Wood, John Taylor -- Shelton, W. H. (William Henry) -- Richards, A. E. (Adolphus Edwards) -- Pittenger, William -- Hines, Thomas Henry -- Duke, Basil Wilson
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18842 for authors Daniel, Samuel -- Constable, Henry
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18855 for authors Piper, H. Beam -- McGuire, John Joseph
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18938 for authors Elton, Mary Augusta -- Elton, Charles Isaac
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18960 for authors Wheelwright, John T. (John Tyler) -- Stimson, Frederic Jesup -- O'Reilly, John Boyle -- Grant, Robert
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18993 for authors March, Francis Andrew -- Beamish, Richard Joseph
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/18 for authors Madison, James -- Jay, John -- Hamilton, Alexander
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/19068 for authors Grimm, Wilhelm -- Grimm, Jacob
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/19108 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/19158 for authors Piper, H. Beam -- McGuire, John Joseph
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/19170 for authors Phillips, Stephen -- Ghose, Manmohan -- Cripps, Arthur Shearly -- Binyon, Laurence
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/19174 for authors Wood, Robert Williams -- Train, Arthur Cheney
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/19185 for authors Whyte, Alexander -- Teresa, of Avila, Saint
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/19304 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/19362 for authors Verne, Michel -- Verne, Jules
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/19394 for authors Stanton, Frank Lebby -- Burleigh, H. T. (Harry Thacker)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/19412 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/19435 for authors Hurston, Zora Neale -- Hughes, Langston
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/19441 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/19559 for authors Sophocles -- Moulton, Richard G. (Richard Green) -- Aeschylus
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/19560 for authors Popenoe, Paul -- Johnson, Roswell H. (Roswell Hill)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/19569 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/19694 for authors Smith, William -- Lawrence, Eugene
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/19742 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/19806 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/19970 for authors Zamin Ki Dost -- Comfort, Will Levington
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/20069 for authors Tetrazzini, Luisa -- Caruso, Enrico
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/20121 for authors Piper, H. Beam -- McGuire, John Joseph
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/20144 for authors Voltaire -- Virgil
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/20172 for authors Peterson, Frederick -- Dargan, Olive Tilford
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/2019 for authors Rinehart, Mary Roberts -- Hopwood, Avery
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/20306 for authors Wright, Willard Huntington -- Nathan, George Jean -- Mencken, H. L. (Henry Louis)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/20308 for authors Noble, Alden Charles -- Kennedy, Sidney R. (Sidney Robinson)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/20310 for authors Mitton, G. E. (Geraldine Edith) -- Geikie, John Cunningham
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/20432 for authors Stratemeyer, Edward -- Alger, Horatio, Jr.
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/20467 for authors Dame, Lorin Low -- Brooks, Henry M. (Henry Mason)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/20476 for authors Chapin, E. H. (Edwin Hubbell) -- Adams, John G. (John Greenleaf)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/20477 for authors Martin, Theodore, Sir -- Aytoun, William Edmondstoune
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/20506 for authors Leeds, Herbert Corey -- Dwight, James
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/20648 for authors Steele, Richard, Sir -- Budgell, Eustace -- Addison, Joseph
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/20657 for authors Lamb, Mary -- Lamb, Charles
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/20742 for authors Shelley, Percy Bysshe -- Eliot, George -- Browning, Robert -- Browning, Elizabeth Barrett
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/20772 for authors Stevens, Frank Lincoln -- Hill, Daniel Harvey -- Burkett, Charles William
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/20815 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/20817 for authors Sadler, William S. (William Samuel) -- Sadler, Lena K. (Lena Kellogg)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/20848 for authors McPherson, William -- Henderson, William Edwards
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/20869 for authors Smith, E. E. (Edward Elmer) -- Garby, Lee Hawkins
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/21040 for authors Machado de Assis -- Dolores, Carmen -- Coelho Netto, Henrique -- Albuquerque, Medeiros e
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/21116 for authors Walter, Eugene -- Hornblow, Arthur
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/21337 for authors Lang, Andrew -- Kendall, May
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/21411 for authors Mitton, G. E. (Geraldine Edith) -- Besant, Walter
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/21529 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/21648 for authors Mitton, G. E. (Geraldine Edith) -- Besant, Walter
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/21823 for authors Roscoe, William -- Ballantyne, R. M. (Robert Michael)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/21948 for authors Moody, Julia -- Marks, Jeannette Augustus
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/21998 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/22001 for authors Wither, George -- Browne, William
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/22061 for authors Warner, Susan -- Warner, Anna Bartlett
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/22081 for authors Wagstaffe, William -- Canning, George
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/22134 for authors Knowles, Matilda Darroch -- Knowles, James
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/22218 for authors Simak, Clifford D. -- Jacobi, Carl Richard
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/22278 for authors Meade, L. T. -- Eustace, Robert
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/22332 for authors Janifer, Laurence M. -- Garrett, Randall
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/22338 for authors Janifer, Laurence M. -- Garrett, Randall
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/22342 for authors Janifer, Laurence M. -- Garrett, Randall
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/22401 for authors Woolson, Constance Fenimore -- Willis, Nathaniel Parker -- Foote, Mary Hallock -- De Forest, John William -- Bunner, H. C. (Henry Cuyler)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/22425 for authors Terman, Lewis M. (Lewis Madison) -- Ruch, G. M. (Giles Murrel) -- Kelley, Truman Lee
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/22599 for authors Smith, David Eugene -- Karpinski, Louis Charles
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/22620 for authors Cross, C. F. (Charles Frederick) -- Bevan, E. J. (Edward John)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/22656 for authors Scott, Walter -- Crockett, S. R. (Samuel Rutherford)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/22754 for authors Smith, E. E. (Edward Elmer) -- Evans, E. Everett (Edward Everett)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/22767 for authors Janifer, Laurence M. -- Garrett, Randall
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/22903 for authors Keppel, Henry, Sir -- James, Rajah of Sarawak
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/23034 for authors Mayer, Brantz -- Canot, Theodore
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/2324 for authors Procter, Adelaide Anne -- Gaskell, Elizabeth Cleghorn -- Dickens, Charles -- Collins, Wilkie
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/23403 for authors Pearson, Leonard -- Michener, Charles B. -- Huidekoper, Rush Shippen -- Harbaugh, W. H. (William Heyser)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/23441 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/23471 for authors McCarthy, Justin H. (Justin Huntly) -- McCarthy, Justin
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/23472 for authors McCarthy, Justin H. (Justin Huntly) -- McCarthy, Justin
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/23494 for authors Kingston, William Henry Giles -- Frith, Henry
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/23519 for authors Lewis, Alfred Henry -- Lee, John Doyle
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/2354 for authors Huxley, Thomas Henry -- Darwin, Charles
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/23558 for authors Jones, Henry Festing -- Bartholomew, A. T. (Augustus Theodore)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/23565 for authors Morford, Henry -- Armstrong, William H.
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/23584 for authors Warner, Susan -- Warner, Anna Bartlett
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/23614 for authors Herford, Oliver -- Clay, John Cecil
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/23665 for authors Roscoe, William -- Dorset, Catherine Ann Turner
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/23681 for authors Herford, Oliver -- Clay, John Cecil
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/23858 for authors Nathan, George Jean -- Mencken, H. L. (Henry Louis)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/23956 for authors Poole, William Frederick -- Buchanan, George
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/24186 for authors Nordau, Max Simon -- Gottheil, Gustav
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/24259 for authors Rinehart, Mary Roberts -- Cobb, Irvin S. (Irvin Shrewsbury)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/24403 for authors Sherwood, Mrs. (Mary Martha) -- Crosland, Newton, Mrs.
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/24604 for authors Goncourt, Jules de -- Goncourt, Edmond de
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/24612 for authors Worden, John Lorimer -- Watson, Eugene Winslow -- Greene, Samuel Dana
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/24627 for authors Stowe, Lyman Beecher -- Scott, Emmett J. (Emmett Jay)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/2468 for authors Christophe, Jules François -- Cerfberr, Anatole
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/2469 for authors Christophe, Jules François -- Cerfberr, Anatole
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/24702 for authors Goddard, Charles -- Dickey, Paul
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/24735 for authors Irwin, Will -- Field, Charles K. (Charles Kellogg)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/24797 for authors Westcott, Allan F. (Allan Ferguson) -- Stevens, William Oliver
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/24855 for authors Hill, Charles Shattuck -- Gillette, Halbert Powers
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/25037 for authors Phillips, Forbes -- Hopkins, R. Thurston (Robert Thurston)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/25050 for authors Tolman, L. M. -- Riley, James Garfield
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/25398 for authors Fletcher, John -- Beaumont, Francis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/25420 for authors Wright, Wilbur -- Wright, Orville
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/25440 for authors Stratemeyer, Edward -- Optic, Oliver
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/25508 for authors Mitton, G. E. (Geraldine Edith) -- Besant, Walter
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/25545 for authors Curry, Charles Madison -- Clippinger, Erle Elsworth
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/25589 for authors Pollock, Walter Herries -- Lang, Andrew
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/25618 for authors Romer, Cecil Francis -- Mainwaring, Arthur Edward
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/25651 for authors Kirk, Dolly Williams -- Greene, Frances Nimmo
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/25698 for authors Leprince de Beaumont, Madame (Jeanne-Marie) -- Dorset, Catherine Ann Turner
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/25713 for authors Silverberg, Robert -- Garrett, Randall
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/25753 for authors Whipple, Wayne -- Aaron, S. F. (Samuel Francis)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/25781 for authors Goddard, Charles -- Dickey, Paul
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/25797 for authors Somervell, D. C. (David Churchill) -- Gollancz, Victor
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/25828 for authors Sutherland, George -- Sutherland, Alexander
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/25985 for authors Fitzgerald, Percy Hetherington -- Dickens, Charles
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/26058 for authors Hill, Lewis Webb -- Eckman, Rena Sarah
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/26067 for authors Dundonald, Thomas Barnes Cochrane, Earl of -- Bourne, H. R. Fox (Henry Richard Fox)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/26144 for authors Yeats, W. B. (William Butler) -- Gregory, Lady
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/26146 for authors Marcosson, Isaac Frederick -- Frohman, Daniel
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/26170 for authors Montefiore, Moses, Sir -- Montefiore, Judith Cohen, Lady
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/26380 for authors White, Trumbull -- Linthicum, Richard -- Fallows, Samuel
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/26455 for authors Maxwell, James Robert -- Little, George
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/26523 for authors More, Paul Elmer -- Harris, Corra
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/26543 for authors Cobb, Ernest -- Cobb, Bertha B. (Bertha Browning)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/26727 for authors Fotheringham, John Knight -- Brodrick, George C. (George Charles)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/26730 for authors Vollmöller, Karl -- Gozzi, Carlo
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/26918 for authors Ficke, Arthur Davison -- Bynner, Witter
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/26937 for authors Shearin, Hubert G. (Hubert Gibson) -- Combs, Josiah Henry
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/27022 for authors Hall, E. Raymond (Eugene Raymond) -- Alvarez, Ticul
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/27557 for authors Harper, Harry -- Grahame-White, Claude
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/27604 for authors Kikuchi, Dairoku -- Brinkley, F. (Frank)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/27711 for authors Goncourt, Jules de -- Goncourt, Edmond de
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/27789 for authors Souvestre, Pierre -- Allain, Marcel
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/27794 for authors Souvestre, Pierre -- Allain, Marcel
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/27991 for authors Maeterlinck, Maurice -- Leblanc, Georgette
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/28050 for authors Tobias, R. B. (Roscoe Burdette) -- Marcy, Mary
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/28059 for authors Ward, Herbert D. (Herbert Dickinson) -- Phelps, Elizabeth Stuart
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/28072 for authors Perrot, Georges -- Chipiez, Charles
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/28099 for authors Eastman, Elaine Goodale -- Eastman, Charles Alexander
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/28216 for authors Carpenter, Thorne M. (Thorne Martin) -- Benedict, Francis Gano
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/28306 for authors Winter, John Strange -- Molesworth, Mrs.
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/28333 for authors Souvestre, Pierre -- Allain, Marcel
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/28496 for authors Park, Robert Ezra -- Burgess, E. W. (Ernest Watson)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/28505 for authors Klein, Charles -- Hornblow, Arthur
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/28513 for authors Mather, Increase -- Mather, Cotton
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/28544 for authors Warner, Susan -- Warner, Anna Bartlett
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/28545 for authors Warner, Susan -- Warner, Anna Bartlett
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/28670 for authors Woon, Basil -- Cady, John H. (John Henry)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/28708 for authors Edgeworth, Richard Lovell -- Edgeworth, Maria
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/28709 for authors Edgeworth, Richard Lovell -- Edgeworth, Maria
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/28884 for authors Smollett, T. (Tobias) -- Hume, David
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/28983 for authors Low, Juliette Gordon -- Baden-Powell, Agnes -- Baden-Powell of Gilwell, Robert Stephenson Smyth Baden-Powell, Baron
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/29005 for authors Putnam, Eleanor -- Bates, Arlo
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/29029 for authors Souvestre, Pierre -- Allain, Marcel
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/29077 for authors Van Millingen, Alexander -- Traquair, Ramsay -- Henderson, Arthur E. (Arthur Edward)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/29083 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/29201 for authors Hall, E. Raymond (Eugene Raymond) -- Cockrum, E. Lendell
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/29206 for authors Reynolds, Mack -- Brown, Fredric
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/29331 for authors Ostrander, Isabel -- Burns, William J.
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/29334 for authors Riley, Phil M. (Phil Madison) -- Cousins, Frank
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/29543 for authors Meeker, Ezra -- Driggs, Howard R. (Howard Roscoe)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/29573 for authors Crane, Stephen -- Barr, Robert
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/29637 for authors Seignobos, Charles -- Langlois, Charles Victor
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/29715 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/29759 for authors Smith, T. Roger (Thomas Roger) -- Slater, John
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/29789 for authors Richmond, Walt -- Richmond, Leigh
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/29842 for authors Lazarus, Adolf -- Ehrlich, Paul
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/29877 for authors Newberry, Perry -- MacGowan, Alice
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/30090 for authors Wiggin, Kate Douglas Smith -- McAulay, Allan -- Findlater, Mary -- Findlater, Jane Helen
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/30127 for authors Rives, Hallie Erminie -- Dickens, Charles
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/30131 for authors Riley, James Whitcomb -- Nye, Bill
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/30172 for authors Turner, Dawson -- Cotman, John Sell
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/30228 for authors McHugh, Augustin -- Currie, Barton Wood
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/30260 for authors Hall, E. Raymond (Eugene Raymond) -- Dalquest, Walter Woelber
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/30276 for authors Lowell, Amy -- Lawrence, D. H. (David Herbert) -- H. D. (Hilda Doolittle) -- Flint, F. S. (Frank Stewart) -- Fletcher, John Gould -- Aldington, Richard
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/30294 for authors Jones, Easley S. (Easley Stephen) -- Greever, Garland
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/30310 for authors Woodward, Dr. (Benjamin Tilghman) -- Ransom, Brayton Howard -- Pearson, Leonard -- Mohler, John R. (John Robbins) -- Marsh, C. Dwight (Charles Dwight) -- Lowe, Dr. (William Herbert) -- Law, James -- Hickman, Richard W. (Richard West) -- Eichhorn, A. (Adolph)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/30367 for authors Parker, Gilbert -- Bryan, Claude Glennon
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/30431 for authors Webster, Henry Kitchell -- Merwin, Samuel
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/30434 for authors Janifer, Laurence M. -- Garrett, Randall
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/30495 for authors Williams, Henry Smith -- Williams, Edward Huntington
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/30537 for authors Thompson, Ruth Plumly -- Baum, L. Frank (Lyman Frank)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/30559 for authors Bender, Ida C. (Ida Catherine) -- Baldwin, James
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/30561 for authors Strong, Sydney -- Soares, Theodore Gerald -- Barton, William Eleazar
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/30577 for authors Ramsay, Allan -- Adler, Cyrus
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/30586 for authors Souvestre, Pierre -- Allain, Marcel
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/3068 for authors Moeller, Philip -- Goodman, Edward -- Gerstenberg, Alice -- Beach, Lewis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/30907 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/30954 for authors Stevenson, Robert Louis -- Osbourne, Lloyd
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/30973 for authors Moe, Jørgen Engebretsen -- Asbjørnsen, Peter Christen
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/30982 for authors Pierce, F. E. (Frederick Erastus) -- MacCracken, H. N. (Henry Noble) -- Durham, W. H. (Willard Higley)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/31036 for authors Ovid -- Fielding, Henry
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/31037 for authors Stevenson, Robert Louis -- Osbourne, Lloyd
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/31092 for authors Blaisdell, Albert F. (Albert Franklin) -- Ball, Francis Kingsley
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/31097 for authors Wiggin, Kate Douglas Smith -- Smith, Nora Archibald
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/31112 for authors Smith, James Edgar -- Hawthorne, Nathaniel
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/31116 for authors Richmond, Walt -- Richmond, Leigh
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/31193 for authors Marx, Karl -- Engels, Friedrich
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/31422 for authors Walling, Anna Strunsky -- London, Jack
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/31645 for authors Steele, Richard, Sir -- Addison, Joseph
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/31679 for authors Jones, J. Knox -- Hall, E. Raymond (Eugene Raymond)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/31791 for authors Schauffler, A. F. (Adolphus Frederick) -- Lawrance, Marion -- Brumbaugh, Martin Grove
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/32112 for authors Jones, J. Knox -- Anderson, Sydney
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/32117 for authors Wheeler, A. C. (Andrew Carpenter) -- Thompson, Maurice -- Stockton, Frank Richard -- Smith, Brainard Gardner -- Munroe, Kirk -- Miller, Joaquin -- Lockwood, Ingersoll -- Harland, Henry -- Green, Anna Katharine -- Fyles, Franklin -- Fawcett, Edgar
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/32128 for authors Krepps, Robert W. -- Gold, H. L. (Horace Leonard)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/32159 for authors Findley, James S. (James Smith) -- Baker, Rollin H. (Rollin Harold)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/32188 for authors Gauden, John -- Charles I, King of England
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/32219 for authors Hauff, Wilhelm -- Chamisso, Adelbert von
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/32274 for authors Underhill, Edward F. (Edward Fitch) -- Doesticks, Q. K. Philander
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/32300 for authors Hutchinson, W. N. (William Nelson) -- Dinks
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/32367 for authors Russell, H. L. (Harry Luman) -- Hastings, E. G. (Edwin George)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/32428 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/32500 for authors Thompson, George -- Breckinridge, Robert J. (Robert Jefferson)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/32679 for authors Fitch, Kenneth Leonard -- Cockrum, E. Lendell
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/32700 for authors Keefe, Eugene K. -- Brenneman, Lyle E.
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/32736 for authors Wood, Irving Francis -- Hall, Newton Marshall
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/32875 for authors Wingate, F. R. (Francis Reginald), Sir -- Ohrwalder, Josef
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/32887 for authors Gilder, Joseph Benson -- Gilder, Jeannette L. (Jeannette Leonard)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/32953 for authors Marlowe, Stephen -- Garrett, Randall
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/32966 for authors Marx, Karl -- Engels, Friedrich
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/32996 for authors Sheehan, Perley Poore -- Means, E. K. (Eldred Kurtz) -- Brand, Max -- Abdullah, Achmed
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/33018 for authors Willis, Carrie Hunter -- Walker, Etta Belle
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/33023 for authors Schoolcraft, Henry Rowe -- Hosmer, William H. C. (William Howe Cuyler)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/33029 for authors Slocum, Rob R. (Rob Roy) -- Lamon, Harry M.
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/33064 for authors MacHarg, William -- Balmer, Edwin
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/33065 for authors MacHarg, William -- Balmer, Edwin
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/3307 for authors McDougall, William -- Hose, Charles
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/33102 for authors Davis, Audrey B. -- Appel, Toby A.
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/33125 for authors Walter, Herbert Eugene -- Walter, Alice Hall
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/3318 for authors Steele, Richard, Sir -- Addison, Joseph
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/33192 for authors Klein, Charles -- Hornblow, Arthur
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/33223 for authors Fowler, O. S. (Orson Squire) -- Fowler, L. N. (Lorenzo Niles)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/33467 for authors Richardson, John, Sir -- Franklin, John
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/33501 for authors Hersey, Harold -- Hastings, Milo
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/33527 for authors Winn, Howard Elliott -- Caldwell, David Keller
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/33587 for authors Pinchot, Gifford -- Gill, Charles Otis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/33727 for authors Tufts, James Hayden -- Stuart, Henry Waldgrave -- Moore, Addison Webster -- Kallen, Horace Meyer -- Dewey, John -- Brown, Harold Chapman -- Bode, Boyd Henry
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/33731 for authors McLennan, William -- McIlwraith, Jean N. (Jean Newton)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/33826 for authors Horn, Ernest -- Ashbaugh, Ernest J. (Ernest James)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/33896 for authors Dante Alighieri -- Church, R. W. (Richard William)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/33986 for authors Pratt, Anna Bronson Alcott -- Alcott, Louisa May
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/33995 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/34123 for authors Adams, John -- Adams, Abigail
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/34295 for authors Hall, E. Raymond (Eugene Raymond) -- Dalquest, Walter Woelber
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/34303 for authors Hall, E. Raymond (Eugene Raymond) -- Dalquest, Walter Woelber
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/34311 for authors Hall, E. Raymond (Eugene Raymond) -- Dalquest, Walter Woelber
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/34314 for authors Villa Ramírez, Bernardo -- Hall, E. Raymond (Eugene Raymond)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/34368 for authors Morgan, Thomas Hunt -- Bridges, Calvin B. (Calvin Blackman)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/34393 for authors Decatur, Stephen -- Barron, James
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/34411 for authors Hall, E. Raymond (Eugene Raymond) -- Dalquest, Walter Woelber
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/34470 for authors Lamb, Mary -- Lamb, Charles -- Edgeworth, Maria
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/34506 for authors Storm, Theodor -- Keller, Gottfried -- Goethe, Johann Wolfgang von -- Fontane, Theodor
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/34532 for authors Hall, E. Raymond (Eugene Raymond) -- Dalquest, Walter Woelber
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/34554 for authors Smith, Hobart M. (Hobart Muir) -- Breukelman, John
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/34630 for authors Somerville, E. Oe. (Edith Oenone) -- Ross, Martin
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/34763 for authors Richmond, Florence Elsa Bell, Lady -- Bell, Florence Eveleen Eleanore Olliffe, Lady
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/34919 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/34949 for authors Jones, J. Knox -- Byers, George William
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/34988 for authors Hooker, Brian -- Hastings, Wells
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/35000 for authors Fletcher, John -- Beaumont, Francis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/35024 for authors Multhauf, Robert P. -- Lenzen, Victor F. (Victor Fritz)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/35303 for authors Fletcher, John -- Beaumont, Francis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/35342 for authors Wallack, Lester -- Feuillet, Octave
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/35354 for authors McHugh, John A. (John Ambrose) -- Callan, Charles J. (Charles Jerome)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/35395 for authors Whitman, Walt -- Gilchrist, Anne (Anne Burrows)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/35399 for authors Washington, Booker T. -- Du Bois, W. E. B. (William Edward Burghardt)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/35437 for authors Girvin, James W. (James Walter) -- Dillingham, Emma Louise Smith -- De La Vergne, George Harrison
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/35452 for authors Stuart, Ruth McEnery -- Paine, Albert Bigelow
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/35490 for authors Agassiz, Elizabeth Cabot Cary -- Agassiz, Alexander
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/354 for authors Shaw, Anna Howard -- Jordan, Elizabeth Garver
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/35688 for authors Gerstenberg, Alice -- Carroll, Lewis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/35838 for authors Minckley, W. L. -- Cross, Frank B. (Frank Bernard)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/35959 for authors Patrat, Joseph -- Inchbald, Mrs.
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/35983 for authors Warner, Susan -- Warner, Anna Bartlett
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/36232 for authors Service, Robert W. (Robert William) -- Dana, Marvin
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/3625 for authors Lumet, Louis -- Keim, Albert
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/36264 for authors Robertson, A. T. -- Broadus, John Albert
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/36341 for authors Whishaw, Frederick -- Townshend, R. B. (Richard Baxter) -- Avery, Harold
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/36383 for authors Pennell, Joseph -- Pennell, Elizabeth Robins
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/36435 for authors Schwatka, Frederick -- Hyde, John
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/36457 for authors Zambra, Joseph -- Negretti, Enrico Angelo Lodovico
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/36458 for authors Simon, Théodore -- Binet, Alfred
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/36467 for authors Thorne, Guy -- Neilson, Francis -- Hemmerde, Edward G. (Edward George)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/36495 for authors Flammarion, Camille -- Blake, J. F. (John Frederick)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/36575 for authors Walpole, Horace -- Jephson, Robert
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/36620 for authors Squire, John Collings, Sir -- Baudelaire, Charles
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/36641 for authors Yonge, Charlotte M. (Charlotte Mary) -- Sergeant, Adeline -- Oliphant, Mrs. (Margaret) -- Marshall, Emma -- Macquoid, Katharine S. (Katharine Sarah) -- Lyall, Edna -- Linton, E. Lynn (Elizabeth Lynn) -- Alexander, Mrs.
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/36653 for authors Villa Ramírez, Bernardo -- Hall, E. Raymond (Eugene Raymond)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/36774 for authors Palmer, George Herbert -- Palmer, Alice Freeman
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/36822 for authors Sato, Kennosuke -- Iyenaga, T. (Toyokichi)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/36867 for authors Clifton, Mark -- Apostolides, Alex
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/36924 for authors Vespucci, Amerigo -- Columbus, Christopher -- Casas, Bartolomé de las
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/37004 for authors Stanley, Edward -- Smith, J. B. (John Benjamin) -- Hylton, William George Hylton Jolliffe, Sir, 1st Baron
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/37025 for authors Shackleton, Robert -- Conwell, Russell H.
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/3702 for authors Reade, Charles -- Boucicault, Dion
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/37082 for authors Stewart, John -- Pulteney, William
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/37129 for authors Kuprin, A. I. (Aleksandr Ivanovich) -- Gorky, Maksim -- Bunin, Ivan Alekseevich
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/37368 for authors Warren, Samuel D. (Samuel Dennis) -- Brandeis, Louis Dembitz
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/37381 for authors Grimm, Wilhelm -- Grimm, Jacob
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/37431 for authors MacKaye, Steele, Mrs. -- Austen, Jane
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/37501 for authors Quarrier, William -- Maclaren, Ian -- Knox-Little, W. J. (William John) -- Cuyler, Theodore L. (Theodore Ledyard) -- Carpenter, William Boyd
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/37502 for authors Haskett Smith, W. P. (Walter Parry) -- Hart, Henry Chichester
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/37602 for authors Trueb, Linda -- Duellman, William Edward
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/37603 for authors Maurice, Arthur Bartlett -- Cooper, Frederic Taber
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/37646 for authors Mattoon, W. R. (Wilbur Reed) -- Fuller, George D. (George Damon)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/37667 for authors Pope, Alexander -- Gay, John -- Arbuthnot, John
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/37696 for authors Tacitus, Cornelius -- Julian, Emperor of Rome -- Josephus, Flavius
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/37753 for authors Sherman, Harley Bakwel -- Dice, Lee R. (Lee Raymond)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/37823 for authors Trueb, Linda -- Duellman, William Edward
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/37855 for authors Visher, Stephen Sargent -- Huntington, Ellsworth
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/37899 for authors Warner, Gertrude Chandler -- Warner, Frances Lester
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/38062 for authors Somerville, E. Oe. (Edith Oenone) -- Ross, Martin
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/38108 for authors Somerville, E. Oe. (Edith Oenone) -- Ross, Martin
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/38148 for authors Salisbury, Rollin D. -- Atwood, Wallace Walter
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/38172 for authors Sherwood, Margaret Pollock -- Sharp, Dallas Lore -- Sedgwick, Anne Douglas -- Nesbit, E. (Edith) -- Montague, Margaret Prescott -- Lucas, E. V. (Edward Verrall) -- Humphrey, Zephine -- Gerould, Katharine Fullerton -- Galsworthy, John -- Dwight, H. G. (Harrison Griswold) -- Doty, Madeleine Z. (Madeleine Zabriskie) -- Dobie, Charles Caldwell -- Canby, Henry Seidel
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/38194 for authors Smith, Adam -- Garnier, M. (Germain)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/3835 for authors Wagner, Richard -- Liszt, Franz
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/38389 for authors Johnson, Willis Fletcher -- Headley, Joel Tyler
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/38412 for authors Young, Ella Flagg -- Field, Walter Taylor
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/38428 for authors Treat, Mary -- Sargent, Frederick Leroy
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/38470 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/38483 for authors Weik, Jesse William -- Herndon, William Henry
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/38484 for authors Weik, Jesse William -- Herndon, William Henry
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/38571 for authors Petrovitch, Woislav M. -- Karadžić, Vuk Stefanović
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/38587 for authors Sims, William Sowden -- Hendrick, Burton Jesse
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/38684 for authors Mason, A. E. W. (Alfred Edward Woodley) -- Lang, Andrew
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/38759 for authors Mercier, Louis-Sébastien -- Inchbald, Mrs. -- Destouches, Néricault
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/38779 for authors Tieck, Ludwig -- Musäus, Johann Karl August -- Jean Paul -- Carlyle, Thomas
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/38901 for authors Shakespeare, William -- Kemble, John Philip
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/38906 for authors McCandless, Wilson -- Adams, John Quincy
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/38922 for authors Warner, Susan -- Harms, Louis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/38953 for authors Pollen, John Hungerford -- Barff, Frederick Settle -- Arnoux, Léon
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/38961 for authors King, Philip Parker -- Fitzroy, Robert
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/38962 for authors Hollingworth, Leta Stetter -- Hollingworth, Harry L. (Harry Levi)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/39026 for authors Pennell, Joseph -- Pennell, Elizabeth Robins
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/39032 for authors Johnston, Annie F. (Annie Fellows) -- Bacon, Albion Fellows
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/39036 for authors Walsh, James J. (James Joseph) -- O'Malley, Austin
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/39054 for authors Alvarez de Abreu, Antonio -- Aduarte, Diego
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/39249 for authors Fletcher, John -- Beaumont, Francis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/39265 for authors Wilmot-Buxton, H. J. (Harry John) -- Koehler, S. R. (Sylvester Rosa)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/39357 for authors Scholl, Ernest E. (Ernest Emmett) -- Sanborn, Charles Emerson
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/39421 for authors Wollaston, A. F. R. (Alexander Frederick Richmond) -- Mallory, George Herbert Leigh -- Howard-Bury, Charles
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/39445 for authors Hoyle, Edmond -- Hoffmann, Professor
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/39551 for authors Tufts, James Hayden -- Dewey, John
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/39755 for authors O'Connor, Daniel -- Barrie, J. M. (James Matthew)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/39783 for authors Pound, Ezra -- Hulme, T. E. (Thomas Ernest)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/39914 for authors Sánchez de Aguilar, Pedro -- Mendez, Santiago -- Hernández, Francisco -- García Cubas, Antonio
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/39922 for authors Marbourg, Dolores -- Eggleston, George Cary
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/39984 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/40035 for authors Fairchild, Marian -- Fairchild, David
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/40109 for authors Hornaday, William T. (William Temple) -- Holland, W. J. (William Jacob)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/40318 for authors Thom, Charles -- Fisk, W. W. (Walter Warner)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/40729 for authors Scott, Charles Augustus -- Dickens, Charles
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/40776 for authors Gordon, Jan -- Gordon, Cora
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/40879 for authors Wiggin, Kate Douglas Smith -- McAulay, Allan -- Findlater, Mary -- Findlater, Jane Helen
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/40992 for authors Hilliard, A. R. (Alec Rowley) -- Glasser, Allen
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/41194 for authors O'Brien, William -- Gladstone, W. E. (William Ewart)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/41237 for authors Vanderlip, Washington Baker -- Hulbert, Homer B. (Homer Bezaleel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/41263 for authors Traill, H. D. (Henry Duff) -- Griffiths, Arthur -- Bonney, T. G. (Thomas George) -- Allen, Grant
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/41280 for authors Stearns, Oliver -- Peabody, Andrew P. (Andrew Preston) -- Martineau, James -- Hedge, Frederic Henry -- Everett, Charles Carroll -- Dewey, Orville -- Coquerel, Athanase -- Clarke, James Freeman -- Bellows, Henry W. (Henry Whitney)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/41350 for authors Spenser, Edmund -- Lang, Jean
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/41373 for authors Urabi, Ahmad -- Blunt, Wilfrid Scawen
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/41521 for authors Hopkins, J. Castell (John Castell) -- Halstead, Murat
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/41660 for authors Thompson, Maurice -- Conway, Hugh
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/41759 for authors Wilson, George Grafton -- Tucker, George Fox
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/41778 for authors Wilbert, Martin I. (Martin Inventius) -- Sollmann, Torald Hermann -- Puckner, William August -- Hewlett, Albion Walter
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/41781 for authors Eastlake, Charles Lock, Sir -- Châteauneuf, Alexis de
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/41787 for authors Wade, B. F. (Benjamin Franklin) -- Gooch, Daniel W. (Daniel Wheelwright)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/41878 for authors Gascoyne-Cecil, William -- Cecil, Florence Mary (Bootle-Wilbraham), Lady
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/41894 for authors Harrison, Elizabeth -- Dickens, Charles
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/41911 for authors Deane, P. E. (Percival Edgar) -- Barrett, James W. (James William), Sir
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/41935 for authors Thorne, Guy -- Homer
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/41959 for authors Craig, Austin -- Benitez, Conrado O.
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/41971 for authors Watson. G. L. (George Lennox) -- Sullivan, Edward, Sir -- Pritchett, R. T. (Robert Taylor) -- Brassey, Thomas Brassey, Earl
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/41973 for authors Pritchett, R. T. (Robert Taylor) -- Dufferin and Ava, Frederick Temple Blackwood, Marquis of
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/42220 for authors Wick, Barthinius L. (Barthinius Larson) -- Brewer, Luther Albertus
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/42241 for authors Williston, Samuel -- Hill, Richard William -- Currier, Richard D. (Richard Dudley)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/42248 for authors Schmeckebier, Laurence Frederick -- Mills, Enos A.
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/42318 for authors Wells, Samuel R. (Samuel Roberts) -- Stowe, Harriet Beecher
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/4234 for authors Wagner, Richard -- Liszt, Franz
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/42484 for authors Poole, William Frederick -- Kidder, Frederic -- Ballard, Edward
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/4249 for authors Morley, Christopher -- Haley, Bart
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/42547 for authors Robinson, H. P. (Henry Peach) -- Abney, William de Wiveleslie, Sir
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/42707 for authors Thatcher, Oliver J. (Oliver Joseph) -- McNeal, Edgar Holmes
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/42919 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/42947 for authors Taylor, Jane -- Taylor, Ann
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/43283 for authors Orléans, Charlotte-Elisabeth, duchesse d' -- Marie Adelaide, of Savoy, Duchess of Burgundy -- Maintenon, Madame de
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/43289 for authors Wette, Adelheid -- Humperdinck, Engelbert
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/43442 for authors Rice, James -- Besant, Walter
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/43472 for authors Webb, Sidney -- Webb, Beatrice
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/43525 for authors Welch, Charles -- Benham, William
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/43533 for authors Machen, J. Gresham (John Gresham) -- Boyd, James Oscar
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/43854 for authors Johnson, R. (Richard) -- Berquin, M. (Arnaud)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/43858 for authors Sims, John -- Curtis, William
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/44034 for authors Guimbaud, Louis -- Drouet, Juliette
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/44112 for authors Sastre, Marcos -- Sarmiento, Domingo Faustino -- Mitre, Bartolomé -- López, Vicente Fidel -- López, Lucio Vicente -- López y Planes, Vicente -- Lacasa, Pedro -- Gutiérrez, Juan María -- Goyena, Pedro -- Drago, Luis María -- Bunge, Carlos O. (Carlos Octavio) -- Blasco Ibáñez, Vicente
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/44417 for authors Wigram, W. A. (William Ainger) -- Wigram, Edgar Thomas Ainger
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/44502 for authors Williams, Henry Smith -- Williams, Edward Huntington
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/44798 for authors Martin, Theodore, Sir -- Aytoun, William Edmondstoune
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/44934 for authors Smith, James -- Harbison, Massy -- Bressani, Francesco Giuseppe
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/44989 for authors Mizner, Addison -- Herford, Oliver -- Grant, Ethel Watts Mumford
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/45065 for authors Manning, Samuel -- Green, Samuel G. (Samuel Gosnell)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/45130 for authors Robertson, J. M. (John Mackinnon) -- Bonner, Hypatia Bradlaugh
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/45131 for authors Robertson, J. M. (John Mackinnon) -- Bonner, Hypatia Bradlaugh
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/45205 for authors Leonard, Daniel -- Adams, John
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/45214 for authors Krauss, Friedrich S. (Friedrich Salomo) -- Houghton, Louise Seymour
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/45238 for authors Wyeth, John B. (John Bound) -- Townsend, John Kirk
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/45274 for authors Leland, H. P. (Henry Perry) -- Leland, Charles Godfrey
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/45317 for authors Miller, Samuel -- Breckinridge, John
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/45446 for authors Walsh, James J. (James Joseph) -- Potamian, Brother
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/4546 for authors Sherman, William T. (William Tecumseh) -- Sheridan, Philip Henry -- Grant, Ulysses S. (Ulysses Simpson)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/45471 for authors Vertot, abbé de -- Boisgelin de Kerdu, Pierre Marie Louis de
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/45503 for authors Maxfield, Albert -- Brady, Robert
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/4554 for authors Kotzebue, August von -- Inchbald, Mrs.
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/45658 for authors Watson, John R. (John Reay) -- Rees, Arthur J. (Arthur John)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/45701 for authors Taylor, Robert Bruce -- More, Paul Elmer -- Kent, Charles Foster -- Jenks, Jeremiah Whipple -- Finley, John H. (John Huston)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/45734 for authors Rice, James -- Besant, Walter
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/45769 for authors Steele, Richard, Sir -- Addison, Joseph
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/45780 for authors Fletcher, John -- Beaumont, Francis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/45781 for authors Fletcher, John -- Beaumont, Francis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/45784 for authors Seymour, Robert -- Cruikshank, Robert -- Cruikshank, George
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/45806 for authors Gounod, Charles -- Carré, Michel -- Barbier, Jules
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/45824 for authors Solvay, Ernest -- Denis, Hector
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/46429 for authors McManus, Blanche -- Mansfield, M. F. (Milburg Francisco)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/46439 for authors McManus, Blanche -- Mansfield, M. F. (Milburg Francisco)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/47156 for authors Fletcher, John -- Beaumont, Francis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/47240 for authors Fletcher, John -- Beaumont, Francis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/47288 for authors Bushnell, Katharine C. (Katharine Caroline) -- Andrew, Elizabeth W.
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/47800 for authors Lang, John -- Lang, Andrew
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/49831 for authors Pennell, Joseph -- Pennell, Elizabeth Robins
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/51140 for authors Smith, George Albert -- Pratt, Orson -- Newman, John Philip -- Cannon, George Q. (George Quayle)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/5115 for authors Sand, George -- Flaubert, Gustave
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/5119 for authors Klein, Charles -- Hornblow, Arthur
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/51650 for authors Anderson, Poul -- Anderson, Karen
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/5314 for authors Grimm, Wilhelm -- Grimm, Jacob
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/5605 for authors Darwin, Francis, Sir -- Darwin, Charles
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/5637 for authors Schiller, Friedrich -- Sainte-Beuve, Charles Augustin -- Renan, Ernest -- Montaigne, Michel de -- Mazzini, Giuseppe -- Lessing, Gotthold Ephraim -- Kant, Immanuel
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/573 for authors Lamb, Mary -- Lamb, Charles
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/5818 for authors Warner, Charles Dudley -- Twain, Mark
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/5819 for authors Warner, Charles Dudley -- Twain, Mark
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/5820 for authors Warner, Charles Dudley -- Twain, Mark
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/5821 for authors Warner, Charles Dudley -- Twain, Mark
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/5822 for authors Warner, Charles Dudley -- Twain, Mark
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/5823 for authors Warner, Charles Dudley -- Twain, Mark
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/5824 for authors Warner, Charles Dudley -- Twain, Mark
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/6158 for authors Smith, William Alexander -- Markwick, William Fisher
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/61 for authors Marx, Karl -- Engels, Friedrich
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/6322 for authors Humboldt, Alexander von -- Bonpland, Aimé
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/6370 for authors Homer -- Church, Alfred John
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/6402 for authors Wilkins, W. H. (William Henry) -- Burton, Isabel, Lady
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/6482 for authors Steele, Richard, Sir -- Budgell, Eustace -- Addison, Joseph
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/655 for authors Orr, Sutherland, Mrs. -- Browning, Robert
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/6598 for authors Stowe, Harriet Beecher -- Beecher, Catharine Esther
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/6604 for authors Gowanlock, Theresa -- Delaney, Theresa
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/6692 for authors Wyss, Johann David -- Aikin, Lucy
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/6812 for authors Nicolay, John G. (John George) -- Hay, John
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/7014 for authors Humboldt, Alexander von -- Bonpland, Aimé
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/7054 for authors Witt, Madame de (Henriette Elizabeth) -- Guizot, François
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/7066 for authors O'Higgins, Harvey Jerrold -- Cannon, Frank J.
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/7073 for authors Sophocles -- Aeschylus
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/7088 for authors Bunyan, John -- Aikin, Lucy
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/722 for authors Ridpath, John Clark -- Edmunds, Charles K. (Charles Keyser) -- Adam, G. Mercer (Graeme Mercer)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/7254 for authors Humboldt, Alexander von -- Bonpland, Aimé
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/747 for authors Pyle, Walter L. (Walter Lytle) -- Gould, George M. (George Milbrey)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/7490 for authors Dryden, John -- Chaucer, Geoffrey
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/763 for authors Miller, Marion Mills -- Day, Edmund
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/7811 for authors Hill, Grace Livingston -- Booth, Evangeline
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/7901 for authors Watson, John F. (John Fanning) -- Smith, J. Jay (John Jay)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/7902 for authors Watson, John F. (John Fanning) -- Smith, J. Jay (John Jay)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/7903 for authors Watson, John F. (John Fanning) -- Smith, J. Jay (John Jay)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/7904 for authors Watson, John F. (John Fanning) -- Smith, J. Jay (John Jay)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/7905 for authors Watson, John F. (John Fanning) -- Smith, J. Jay (John Jay)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/7906 for authors Watson, John F. (John Fanning) -- Smith, J. Jay (John Jay)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/7907 for authors Watson, John F. (John Fanning) -- Smith, J. Jay (John Jay)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/7908 for authors Watson, John F. (John Fanning) -- Smith, J. Jay (John Jay)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/7909 for authors Watson, John F. (John Fanning) -- Smith, J. Jay (John Jay)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/7910 for authors Watson, John F. (John Fanning) -- Smith, J. Jay (John Jay)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/7923 for authors Watson, John F. (John Fanning) -- Smith, J. Jay (John Jay)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/808 for authors Sullivan, Arthur -- Gilbert, W. S. (William Schwenck)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/8145 for authors Schroeder, John Frederick -- Lossing, Benson John
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/820 for authors Martin, Thomas Commerford -- Dyer, Frank Lewis
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/8419 for authors Lewis, Meriwether -- Clark, William
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/8465 for authors Petrunkevitch, Alexander -- Kerner, Robert Joseph -- Harper, Samuel N. (Samuel Northrup) -- Golder, Frank Alfred
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/8469 for authors Granville-Barker, Harley -- Calthrop, Dion Clayton
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/8536 for authors Hamerton, Philip Gilbert -- Hamerton, Eugénie
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/8598 for authors Wilson, Epiphanius -- McSpadden, J. Walker (Joseph Walker)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/8653 for authors Thorne-Thomsen, Gudrun -- Moe, Jørgen Engebretsen -- Asbjørnsen, Peter Christen
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/8661 for authors Wetherald, A. Ethelwyn -- Adam, G. Mercer (Graeme Mercer)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/8695 for authors Falconer, William -- Blair, Robert -- Beattie, James
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/874 for authors Vivian, Evelyn Charles -- Marsh, W. Lockwood (William Lockwood)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/8821 for authors Cameron, Verney Lovett -- Burton, Richard Francis, Sir
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/907 for authors Russell, Thomas Herbert -- Jackman, William J. (William James) -- Chanute, Octave
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/9172 for authors Rosanoff, A. J. (Aaron Joshua) -- Kent, Grace Helen
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/9334 for authors Steele, Richard, Sir -- Addison, Joseph
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/9365 for authors Lamb, Mary -- Lamb, Charles
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/9622 for authors Wordsworth, William -- Coleridge, Samuel Taylor
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/9747 for authors Vance, Louis Joseph -- Smith, Winchell
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/9799 for authors Williamson, C. N. (Charles Norris) -- Williamson, A. M. (Alice Muriel)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/9822 for authors Wharton, Philip -- Thomson, A. T., Mrs. -- Robinson, Mary
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/9897 for authors Bourne, Henry Eldridge -- Benton, Elbert Jay
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/9912 for authors Stump, Joseph -- Luther, Martin
+
+Collaborating authors encountered during removal:
+Williamson, A. M. (Alice Muriel) (28)
+Williamson, C. N. (Charles Norris) (28)
+Beaumont, Francis (21)
+Fletcher, John (21)
+Watson, John F. (John Fanning) (11)
+Smith, J. Jay (John Jay) (11)
+Hall, E. Raymond (Eugene Raymond) (11)
+Lamb, Mary (9)
+Addison, Joseph (9)
+Lamb, Charles (9)
+Steele, Richard, Sir (8)
+Warner, Susan (7)
+Garrett, Randall (7)
+Dickens, Charles (7)
+Twain, Mark (7)
+Warner, Charles Dudley (7)
+Hornblow, Arthur (6)
+Dalquest, Walter Woelber (6)
+Williams, Edward Huntington (6)
+Warner, Anna Bartlett (6)
+Williams, Henry Smith (6)
+Janifer, Laurence M. (5)
+Besant, Walter (5)
+Allain, Marcel (5)
+Souvestre, Pierre (5)
+Piper, H. Beam (5)
+Somerville, E. Oe. (Edith Oenone) (5)
+Ross, Martin (5)
+McGuire, John Joseph (5)
+Edgeworth, Maria (4)
+Grimm, Jacob (4)
+Klein, Charles (4)
+Mitton, G. E. (Geraldine Edith) (4)
+Lang, Andrew (4)
+Grimm, Wilhelm (4)
+Bonpland, Aimé (3)
+Wiggin, Kate Douglas Smith (3)
+Engels, Friedrich (3)
+Jones, J. Knox (3)
+Marx, Karl (3)
+Humboldt, Alexander von (3)
+Thomson, A. T., Mrs. (3)
+Cerfberr, Anatole (3)
+Pennell, Elizabeth Robins (3)
+Inchbald, Mrs. (3)
+Christophe, Jules François (3)
+Carlyle, Thomas (3)
+Herford, Oliver (3)
+Wharton, Philip (3)
+Edgeworth, Richard Lovell (3)
+Browning, Robert (3)
+Pennell, Joseph (3)
+Wagner, Richard (3)
+Duellman, William Edward (2)
+Conrad, Joseph (2)
+Tarkington, Booth (2)
+Rees, Arthur J. (Arthur John) (2)
+Massinger, Philip (2)
+Goncourt, Jules de (2)
+Dewey, John (2)
+McManus, Blanche (2)
+Findlater, Jane Helen (2)
+Hamilton, Alexander (2)
+Trueb, Linda (2)
+Richmond, Walt (2)
+Wordsworth, William (2)
+Tufts, James Hayden (2)
+Lang, Jean (2)
+Carman, Bliss (2)
+Marchant, James, Sir (2)
+Beamish, Richard Joseph (2)
+Stevenson, Robert Louis (2)
+McCarthy, Justin H. (Justin Huntly) (2)
+King, Philip Gidley (2)
+Goncourt, Edmond de (2)
+Stowe, Harriet Beecher (2)
+Budgell, Eustace (2)
+Ford, Ford Madox (2)
+Jay, John (2)
+Browning, Elizabeth Barrett (2)
+Smollett, T. (Tobias) (2)
+Cockrum, E. Lendell (2)
+Jenks, Jeremiah Whipple (2)
+Weik, Jesse William (2)
+Lewis, Meriwether (2)
+Hovey, Richard (2)
+Clark, William (2)
+Hay, John (2)
+Verne, Jules (2)
+Nathan, George Jean (2)
+Pearson, Leonard (2)
+Madison, James (2)
+Thorne, Guy (2)
+Smith, E. E. (Edward Elmer) (2)
+Adam, G. Mercer (Graeme Mercer) (2)
+Martin, Theodore, Sir (2)
+Collins, David (2)
+Richmond, Leigh (2)
+Dickey, Paul (2)
+More, Paul Elmer (2)
+Leadbeater, C. W. (Charles Webster) (2)
+Balmer, Edwin (2)
+Mansfield, M. F. (Milburg Francisco) (2)
+Dazey, Charles Turner (2)
+Thompson, Maurice (2)
+Marshall, Edward (2)
+Pritchett, R. T. (Robert Taylor) (2)
+Stratemeyer, Edward (2)
+Whipple, Wayne (2)
+Robertson, J. M. (John Mackinnon) (2)
+Sophocles (2)
+Merwin, Samuel (2)
+Homer (2)
+Liszt, Franz (2)
+Rice, James (2)
+Goddard, Charles (2)
+Lang, John (2)
+Greever, Garland (2)
+Burton, Richard Francis, Sir (2)
+Gerstenberg, Alice (2)
+Gay, John (2)
+Wallace, Alfred Russel (2)
+Findlater, Mary (2)
+Wilson, Harry Leon (2)
+Nicolay, John G. (John George) (2)
+Lucas, E. V. (Edward Verrall) (2)
+Bourne, H. R. Fox (Henry Richard Fox) (2)
+Darwin, Charles (2)
+Cameron, Verney Lovett (2)
+Sherwood, Mrs. (Mary Martha) (2)
+Barton, William Eleazar (2)
+Bushnell, Katharine C. (Katharine Caroline) (2)
+Webster, Henry Kitchell (2)
+Collins, Wilkie (2)
+Watson, John R. (John Reay) (2)
+Aikin, Lucy (2)
+Aytoun, William Edmondstoune (2)
+Dorset, Catherine Ann Turner (2)
+Osbourne, Lloyd (2)
+Dundonald, Thomas Barnes Cochrane, Earl of (2)
+MacHarg, William (2)
+Kent, Charles Foster (2)
+Emerson, Ralph Waldo (2)
+McAulay, Allan (2)
+Bunner, H. C. (Henry Cuyler) (2)
+Poole, William Frederick (2)
+Roscoe, William (2)
+Herndon, William Henry (2)
+Walsh, James J. (James Joseph) (2)
+Besant, Annie (2)
+Bonner, Hypatia Bradlaugh (2)
+Shakespeare, William (2)
+Adams, John (2)
+Villa Ramírez, Bernardo (2)
+McCarthy, Justin (2)
+Moe, Jørgen Engebretsen (2)
+Mencken, H. L. (Henry Louis) (2)
+Strong, Sydney (2)
+Soares, Theodore Gerald (2)
+March, Francis Andrew (2)
+Asbjørnsen, Peter Christen (2)
+Aaron, S. F. (Samuel Francis) (2)
+Rinehart, Mary Roberts (2)
+Clay, John Cecil (2)
+Aeschylus (2)
+Lee, John Doyle (1)
+Tennyson, Alfred Tennyson, Baron (1)
+Smith, Adam (1)
+Adams, Samuel Hopkins (1)
+Stowe, Lyman Beecher (1)
+Laurie, André (1)
+Kelly, Sophia (1)
+Harrison, Elizabeth (1)
+Cannon, George Q. (George Quayle) (1)
+Burns, William J. (1)
+Illica, Luigi (1)
+Wade, B. F. (Benjamin Franklin) (1)
+Booth, Evangeline (1)
+Phillips, Forbes (1)
+Sullivan, Arthur (1)
+Willis, Nathaniel Parker (1)
+Wetherald, A. Ethelwyn (1)
+Zamin Ki Dost (1)
+Golder, Frank Alfred (1)
+Moore, Arthur (1)
+Warner, Frances Lester (1)
+Jacobi, Carl Richard (1)
+Russell, H. L. (Harry Luman) (1)
+Adler, Cyrus (1)
+Toynbee, Arnold (1)
+MacGowan, Alice (1)
+Scott, Walter (1)
+Moulton, Richard G. (Richard Green) (1)
+Keefe, Eugene K. (1)
+Álvarez Quintero, Joaquín (1)
+Girardin, Emile de, Mme. (1)
+Low, Juliette Gordon (1)
+Colman, George (1)
+Cunningham, Allan (1)
+Huntington, Ellsworth (1)
+Morford, Henry (1)
+Abbey, Charles J. (Charles John) (1)
+Roosevelt, Theodore (1)
+Karpinski, Louis Charles (1)
+Fawcett, Edgar (1)
+Leblanc, Georgette (1)
+Hughes, Langston (1)
+Mencius (1)
+Senior, Nassau William (1)
+Barrett, James W. (James William), Sir (1)
+Armstrong, William H. (1)
+Webb, Sidney (1)
+Kirk, Dolly Williams (1)
+Eustace, Robert (1)
+Ormsbee, Thomas H. (Thomas Hamilton) (1)
+Brinkley, F. (Frank) (1)
+McDougall, William (1)
+Smith, George Albert (1)
+Ramsay, Allan (1)
+Church, Alfred John (1)
+Hopkins, J. Castell (John Castell) (1)
+Munroe, Kirk (1)
+Bishopp, F. C. (Fred Corry) (1)
+Davis, Rebecca Harding (1)
+Scholl, Ernest E. (Ernest Emmett) (1)
+Baldridge, Cyrus Leroy (1)
+Kuprin, A. I. (Aleksandr Ivanovich) (1)
+Renan, Ernest (1)
+Mizner, Addison (1)
+Woolson, Constance Fenimore (1)
+Moore, Addison Webster (1)
+Hopkins, R. Thurston (Robert Thurston) (1)
+Haley, Bart (1)
+Goodman, Edward (1)
+Burleigh, H. T. (Harry Thacker) (1)
+Squire, John Collings, Sir (1)
+Smith, James Edgar (1)
+Agassiz, Alexander (1)
+Brontë, Emily (1)
+Wood, Irving Francis (1)
+Sánchez de Aguilar, Pedro (1)
+Hill, Daniel Harvey (1)
+Walter, Alice Hall (1)
+Wette, Adelheid (1)
+Eggleston, George Cary (1)
+Woon, Basil (1)
+Vollmöller, Karl (1)
+Mitre, Bartolomé (1)
+Paine, Albert Bigelow (1)
+Humphrey, Zephine (1)
+Gregory, Francis Thomas (1)
+Jeffery, Walter (1)
+Gilbert, W. S. (William Schwenck) (1)
+Wise, Thomas A. (Thomas Alfred) (1)
+King, Philip Parker (1)
+Parker, Gilbert (1)
+Denis, Hector (1)
+Mc Donald, R. D. (Roelof Daniel) (1)
+Harms, Louis (1)
+Josephus, Flavius (1)
+Meeker, Ezra (1)
+Williston, Samuel (1)
+Boucicault, Dion (1)
+Smith, James (1)
+Falconer, William (1)
+Traill, H. D. (Henry Duff) (1)
+Sergeant, Adeline (1)
+Smith, T. Roger (Thomas Roger) (1)
+Towne, Charles Hanson (1)
+Smith, Nora Archibald (1)
+De La Vergne, George Harrison (1)
+Headley, Joel Tyler (1)
+Thorne-Thomsen, Gudrun (1)
+Bender, Ida C. (Ida Catherine) (1)
+Edmunds, Charles K. (Charles Keyser) (1)
+Powdermaker, Florence (1)
+Calthrop, Dion Clayton (1)
+Blaisdell, Mary Frances (1)
+Krepps, Robert W. (1)
+Charles I, King of England (1)
+Negretti, Enrico Angelo Lodovico (1)
+Denham, John, Sir (1)
+Hill, Janet McKenzie (1)
+Mohler, John R. (John Robbins) (1)
+Smith, Winchell (1)
+Thompson, George (1)
+Chanute, Octave (1)
+García Cubas, Antonio (1)
+Dufferin and Ava, Frederick Temple Blackwood, Marquis of (1)
+Roessler, Erwin W. (Erwin William) (1)
+Buchanan, George (1)
+Linthicum, Richard (1)
+Smith, Hobart M. (Hobart Muir) (1)
+Stearns, Oliver (1)
+Alvarez, Ticul (1)
+Rhodes, Harrison (1)
+Aduarte, Diego (1)
+Flaubert, Gustave (1)
+Phelps, Elizabeth Stuart (1)
+Hill, Charles Shattuck (1)
+Kerr, Robert (1)
+Carpenter, William Boyd (1)
+Remy, Alfred (1)
+McHugh, Augustin (1)
+Wallack, Lester (1)
+Pollock, Walter Herries (1)
+Evans, E. Everett (Edward Everett) (1)
+Huidekoper, Rush Shippen (1)
+Giacosa, Giuseppe (1)
+Kingston, William Henry Giles (1)
+Popenoe, Paul (1)
+Kingsley, Florence Morse (1)
+Wilson, Epiphanius (1)
+Brown, Harold Chapman (1)
+Harper, Harry (1)
+Montague, Margaret Prescott (1)
+Cochrane, Thomas (1)
+Burkett, Charles William (1)
+McFadden, Elizabeth A. (Elizabeth Apthorp) (1)
+Worden, John Lorimer (1)
+Maclaren, Ian (1)
+Bryan, Claude Glennon (1)
+Seignobos, Charles (1)
+Franklin, John (1)
+Lossing, Benson John (1)
+Bunge, Carlos O. (Carlos Octavio) (1)
+Wheelwright, John T. (John Tyler) (1)
+Solvay, Ernest (1)
+Pope, Alexander (1)
+Ballard, Edward (1)
+Yeats, W. B. (William Butler) (1)
+Hernández, Francisco (1)
+Maeterlinck, Maurice (1)
+Gerould, Katharine Fullerton (1)
+Wilson, George Grafton (1)
+Wheeler, A. C. (Andrew Carpenter) (1)
+Warner, Gertrude Chandler (1)
+Rives, Hallie Erminie (1)
+Vespucci, Amerigo (1)
+Sheridan, Philip Henry (1)
+Baden-Powell, Agnes (1)
+Balzac, Honoré de (1)
+Butterworth, Hezekiah (1)
+Washington, Booker T. (1)
+Lewis, Alfred Henry (1)
+Field, Stephen J. (Stephen Johnson) (1)
+Carré, Michel (1)
+Dante Alighieri (1)
+Dice, Lee R. (Lee Raymond) (1)
+Smith, William Alexander (1)
+Zambra, Joseph (1)
+Julian, Emperor of Rome (1)
+Leprince de Beaumont, Madame (Jeanne-Marie) (1)
+Pordage, Samuel (1)
+Ransom, Brayton Howard (1)
+Sand, George (1)
+Tieck, Ludwig (1)
+Cooper, John Gilbert (1)
+Cobb, Ernest (1)
+Pulteney, William (1)
+Wells, Samuel R. (Samuel Roberts) (1)
+Little, George (1)
+James, Rajah of Sarawak (1)
+Curry, Charles Madison (1)
+Somerville, William (1)
+Slater, John (1)
+Marsh, W. Lockwood (William Lockwood) (1)
+Smith, J. B. (John Benjamin) (1)
+Slocum, Rob R. (Rob Roy) (1)
+Parnell, Thomas (1)
+Gregory, Augustus Charles (1)
+Barbier, Jules (1)
+Schiller, Friedrich (1)
+Kemble, John Philip (1)
+Wade, G. W. (George Woosung) (1)
+Destouches, Néricault (1)
+Moeller, Philip (1)
+Ormsbee, Renee Richmond Huntley (1)
+Vivian, Evelyn Charles (1)
+Hylton, William George Hylton Jolliffe, Sir, 1st Baron (1)
+Hose, Charles (1)
+Pinchot, Gifford (1)
+Montagu, Mary Wortley, Lady (1)
+Seton-Watson, R. W. (Robert William) (1)
+Houghton, Louise Seymour (1)
+Binet, Alfred (1)
+Willis, Carrie Hunter (1)
+Garby, Lee Hawkins (1)
+Thackeray, William Makepeace (1)
+Milligan, George (1)
+Hogarth, D. G. (David George) (1)
+Wright, Willard Huntington (1)
+Fitch, Kenneth Leonard (1)
+Sherman, Harley Bakwel (1)
+Willoughby, William F. (William Franklin) (1)
+Montaigne, Michel de (1)
+Stevenson, William (1)
+Frith, Henry (1)
+Jacobs, W. W. (William Wymark) (1)
+Boswell, James (1)
+Lyttelton, George Lyttelton, Baron (1)
+Tetrazzini, Luisa (1)
+Richardson, John, Sir (1)
+Mather, Cotton (1)
+Hoyle, Edmond (1)
+Geikie, John Cunningham (1)
+Manning, Samuel (1)
+Matthews, Brander (1)
+Fairchild, Marian (1)
+Benitez, Conrado O. (1)
+Sutherland, Alexander (1)
+López, Lucio Vicente (1)
+Arnoux, Léon (1)
+Hume, David (1)
+Allen, Roland (1)
+Sadler, William S. (William Samuel) (1)
+Currie, Barton Wood (1)
+Russell, Thomas Herbert (1)
+Hemmerde, Edward G. (Edward George) (1)
+Settle, Elkanah (1)
+Sharp, Dallas Lore (1)
+Dempster, George (1)
+Currier, Richard D. (Richard Dudley) (1)
+Cobb, Irvin S. (Irvin Shrewsbury) (1)
+Taylor, Bayard (1)
+Eastman, Elaine Goodale (1)
+Harland, Henry (1)
+Toombs, Frederick R. (1)
+Shearin, Hubert G. (Hubert Gibson) (1)
+Howard-Bury, Charles (1)
+Lumet, Louis (1)
+Hendrick, Burton Jesse (1)
+Dinks (1)
+Flammarion, Camille (1)
+Buckelew, Sarah F. (Sarah Frances) (1)
+McSpadden, J. Walker (Joseph Walker) (1)
+Wingate, F. R. (Francis Reginald), Sir (1)
+Whipple, Edwin Percy (1)
+Dame, Lorin Low (1)
+Cross, C. F. (Charles Frederick) (1)
+Leland, H. P. (Henry Perry) (1)
+Riley, Phil M. (Phil Madison) (1)
+Leonard, Daniel (1)
+Cruikshank, Robert (1)
+Underhill, Edward F. (Edward Fitch) (1)
+Benton, Elbert Jay (1)
+Wyss, Johann David (1)
+Wright, Mabel Osgood (1)
+Stewart, John (1)
+Constable, Henry (1)
+Lawrence, D. H. (David Herbert) (1)
+Cuyler, Theodore L. (Theodore Ledyard) (1)
+Mather, Increase (1)
+Orléans, Charlotte-Elisabeth, duchesse d' (1)
+Marbourg, Dolores (1)
+Scott, Charles Augustus (1)
+Stump, Joseph (1)
+White, Trumbull (1)
+Baldwin, Elihu W. (Elihu Whittlesey) (1)
+Lenzen, Victor F. (Victor Fritz) (1)
+Heyward, DuBose (1)
+Wyeth, John B. (John Bound) (1)
+Beecher, Edward (1)
+Stockton, Frank Richard (1)
+Tucker, George Fox (1)
+Crockett, S. R. (Samuel Rutherford) (1)
+Amfiteatrov, Aleksandr (1)
+Moody, Julia (1)
+Lowe, Dr. (William Herbert) (1)
+Thatcher, Oliver J. (Oliver Joseph) (1)
+Fallows, Samuel (1)
+Nye, Bill (1)
+Clifton, Mark (1)
+Newman, John Philip (1)
+Hewlett, Albion Walter (1)
+Mitchell, J. Murray (John Murray) (1)
+Blaisdell, Etta Austin (1)
+Richards, A. E. (Adolphus Edwards) (1)
+Atwood, Wallace Walter (1)
+Dolores, Carmen (1)
+Coquerel, Athanase (1)
+Bridges, Calvin B. (Calvin Blackman) (1)
+Henderson, William Edwards (1)
+Crane, Stephen (1)
+Perrot, Georges (1)
+Gould, George M. (George Milbrey) (1)
+Lingard, John (1)
+Hedge, Frederic Henry (1)
+Abdullah, Achmed (1)
+Mattoon, W. R. (Wilbur Reed) (1)
+Urabi, Ahmad (1)
+Dyer, Frank Lewis (1)
+Putnam, Eleanor (1)
+Barr, Robert (1)
+Harper, Samuel N. (Samuel Northrup) (1)
+Frohman, Daniel (1)
+Rickert, Edith (1)
+Tobias, R. B. (Roscoe Burdette) (1)
+Burgess, E. W. (Ernest Watson) (1)
+Smith, Henrietta Brown (1)
+Maxwell, James Robert (1)
+Glasser, Allen (1)
+Cruikshank, George (1)
+Hastings, Milo (1)
+Appel, Toby A. (1)
+Marie Adelaide, of Savoy, Duchess of Burgundy (1)
+Beard, Charles A. (Charles Austin) (1)
+Gascoyne-Cecil, William (1)
+Mitrany, David (1)
+Overton, John Henry (1)
+Conway, Agnes Ethel (1)
+Canot, Theodore (1)
+Keim, Albert (1)
+Sheehan, Perley Poore (1)
+Drago, Luis María (1)
+Cady, John H. (John Henry) (1)
+Krauss, Friedrich S. (Friedrich Salomo) (1)
+Park, Robert Ezra (1)
+Fletcher, John Gould (1)
+Marks, Jeannette Augustus (1)
+Baden-Powell of Gilwell, Robert Stephenson Smyth Baden-Powell, Baron (1)
+Du Bois, W. E. B. (William Edward Burghardt) (1)
+Brassey, Thomas Brassey, Earl (1)
+Iyenaga, T. (Toyokichi) (1)
+Phillips, Stephen (1)
+Marsh, C. Dwight (Charles Dwight) (1)
+Bartholomew, A. T. (Augustus Theodore) (1)
+Norsworthy, Naomi (1)
+Bellows, Henry W. (Henry Whitney) (1)
+Austen, Jane (1)
+Multhauf, Robert P. (1)
+Shelley, Percy Bysshe (1)
+Mainwaring, Arthur Edward (1)
+Howard, L. O. (Leland Ossian) (1)
+Sastre, Marcos (1)
+Crosland, Newton, Mrs. (1)
+Pyle, Walter L. (Walter Lytle) (1)
+Schoolcraft, Henry Rowe (1)
+Belloc, Hilaire (1)
+Elton, Charles Isaac (1)
+Alger, Horatio, Jr. (1)
+Wilbert, Martin I. (Martin Inventius) (1)
+Webster, Daniel (1)
+Romer, Cecil Francis (1)
+Palmer, George Herbert (1)
+Fielding, Henry (1)
+Thom, Charles (1)
+Baukhage, Hilmar R. (Hilmar Robert) (1)
+Tolman, L. M. (1)
+Sedgwick, Anne Douglas (1)
+Wagstaffe, William (1)
+Walter, Herbert Eugene (1)
+Mason, A. E. W. (Alfred Edward Woodley) (1)
+Riley, James Garfield (1)
+Grant, Robert (1)
+Gauden, John (1)
+Rowland, Alfred (1)
+Johnson, Roswell H. (Roswell Hill) (1)
+Hosmer, William H. C. (William Howe Cuyler) (1)
+Esenwein, J. Berg (Joseph Berg) (1)
+Harbaugh, W. H. (William Heyser) (1)
+López y Planes, Vicente (1)
+Darwin, Francis, Sir (1)
+Maurice, Arthur Bartlett (1)
+Tacitus, Cornelius (1)
+Treat, Mary (1)
+Kerner, Robert Joseph (1)
+Hauff, Wilhelm (1)
+Hutchinson, W. N. (William Nelson) (1)
+Jagor, Fedor (1)
+Hamerton, Eugénie (1)
+Yonge, Charlotte M. (Charlotte Mary) (1)
+Lacasa, Pedro (1)
+Lyall, Edna (1)
+Agassiz, Elizabeth Cabot Cary (1)
+Shelton, W. H. (William Henry) (1)
+Adams, John Quincy (1)
+Wilkes, Charles (1)
+Hickman, Richard W. (Richard West) (1)
+Driggs, Howard R. (Howard Roscoe) (1)
+Gozzi, Carlo (1)
+Richmond, Florence Elsa Bell, Lady (1)
+Caldwell, David Keller (1)
+Harris, Corra (1)
+Ruch, G. M. (Giles Murrel) (1)
+Carroll, Lewis (1)
+Wick, Barthinius L. (Barthinius Larson) (1)
+Greene, Frances Nimmo (1)
+Taylor, Walter P. (Walter Penn) (1)
+Whyte, Alexander (1)
+Cousins, Frank (1)
+O'Higgins, Harvey Jerrold (1)
+Service, Robert W. (Robert William) (1)
+Barff, Frederick Settle (1)
+Hooker, Brian (1)
+Wright, Wilbur (1)
+Thompson, Ruth Plumly (1)
+Watson, Eugene Winslow (1)
+Bachelor, Joseph M. (Joseph Morris) (1)
+Webb, Beatrice (1)
+Garrick, David (1)
+Flint, F. S. (Frank Stewart) (1)
+Oliphant, Mrs. (Margaret) (1)
+Hastings, Wells (1)
+Lessing, Gotthold Ephraim (1)
+Canning, George (1)
+Alden, Raymond MacDonald (1)
+Daniel, Samuel (1)
+Michener, Charles B. (1)
+Rock, Charles (1)
+Sutherland, George (1)
+Scribe, Eugène (1)
+Eichhorn, A. (Adolph) (1)
+Breckinridge, John (1)
+Church, R. W. (Richard William) (1)
+Wood, Robert Williams (1)
+Carpenter, Thorne M. (Thorne Martin) (1)
+Warren, Samuel D. (Samuel Dennis) (1)
+Grahame-White, Claude (1)
+Arthur, T. S. (Timothy Shay) (1)
+Marcosson, Isaac Frederick (1)
+Molesworth, Mrs. (1)
+Smith, David Eugene (1)
+Tate, W. K. (William Knox) (1)
+Eastlake, Charles Lock, Sir (1)
+London, Jack (1)
+Montagu, Mrs. (Elizabeth) (1)
+Curtis, William (1)
+Bacon, Albion Fellows (1)
+Martin, Thomas Commerford (1)
+Cooper, Frederic Taber (1)
+Blunt, Wilfrid Scawen (1)
+Sims, William Sowden (1)
+Brady, Robert (1)
+Field, Walter Taylor (1)
+Bayliss, Clara Kern (1)
+Dowson, Ernest Christopher (1)
+Ball, Francis Kingsley (1)
+Shackleton, Robert (1)
+Alexander, Mrs. (1)
+Townshend, R. B. (Richard Baxter) (1)
+Browne, Porter Emerson (1)
+O'Connor, Daniel (1)
+Baldwin, James (1)
+Binyon, Laurence (1)
+Miller, Joaquin (1)
+Storm, Theodor (1)
+Sullivan, Edward, Sir (1)
+Zimmern, Alfred (1)
+Potamian, Brother (1)
+Traquair, Ramsay (1)
+Broadhurst, George Howells (1)
+Smith, William (1)
+Kent, Grace Helen (1)
+Schwatka, Frederick (1)
+Wohlers, Otto K. (1)
+Jean Paul (1)
+Brontë, Charlotte (1)
+Waller, Edmund (1)
+Fowler, L. N. (Lorenzo Niles) (1)
+Gorham, George C. (George Congdon) (1)
+Gilder, Joseph Benson (1)
+Townsend, John Kirk (1)
+Chaucer, Geoffrey (1)
+Knowles, Matilda Darroch (1)
+Machen, J. Gresham (John Gresham) (1)
+Shaw, Anna Howard (1)
+Terman, Lewis M. (Lewis Madison) (1)
+Beach, Lewis (1)
+Eisenhower, Dwight D. (Dwight David) (1)
+Sanford, Albert Hart (1)
+Haskett Smith, W. P. (Walter Parry) (1)
+Bonney, T. G. (Thomas George) (1)
+Vorhies, Charles Taylor (1)
+Stuart, Henry Waldgrave (1)
+McPherson, William (1)
+Nordau, Max Simon (1)
+Huckel, Oliver (1)
+Hornaday, William T. (William Temple) (1)
+Pollen, John Hungerford (1)
+Cross, Frank B. (Frank Bernard) (1)
+Decatur, Stephen (1)
+Law, James (1)
+Legouvé, Ernest (1)
+Hart, Henry Chichester (1)
+Bynner, Witter (1)
+Newcomb, Arthur (1)
+Dargan, Olive Tilford (1)
+Lodge, Henry Cabot (1)
+Brenneman, Lyle E. (1)
+Anderson, Poul (1)
+Simak, Clifford D. (1)
+Hurston, Zora Neale (1)
+Elton, Mary Augusta (1)
+Hilker, Leafy Jane Corrington (1)
+Fitzroy, Robert (1)
+Caruso, Enrico (1)
+Visher, Stephen Sargent (1)
+Bunyan, John (1)
+Pittenger, William (1)
+López, Vicente Fidel (1)
+Day, Edmund (1)
+Reynolds, Mack (1)
+O'Malley, Austin (1)
+Van Vorst, John, Mrs. (1)
+Armstrong, John (1)
+Peters, Iva Lowther (1)
+Hersey, Harold (1)
+Brand, Max (1)
+Anderson, Sydney (1)
+Browne, Hetty Sibyl (1)
+Leland, Aaron W. (Aaron Whitney) (1)
+Gounod, Charles (1)
+Stevens, William Oliver (1)
+Gowanlock, Theresa (1)
+Schauffler, A. F. (Adolphus Frederick) (1)
+Meade, L. T. (1)
+Pierce, F. E. (Frederick Erastus) (1)
+Macquoid, Katharine S. (Katharine Sarah) (1)
+Pratt, Orson (1)
+Abney, William de Wiveleslie, Sir (1)
+Washington, George (1)
+Linton, E. Lynn (Elizabeth Lynn) (1)
+Stuart, Ruth McEnery (1)
+Johnson, R. (Richard) (1)
+McNeal, Edgar Holmes (1)
+Wither, George (1)
+Hill, Grace Livingston (1)
+Van Vorst, Marie (1)
+Gray, Thomas (1)
+Morley, Christopher (1)
+Breukelman, John (1)
+Hollingworth, Leta Stetter (1)
+Macdill, David (1)
+Grant, Ethel Watts Mumford (1)
+Fyles, Franklin (1)
+Gill, Charles Otis (1)
+Casas, Bartolomé de las (1)
+White, Stewart Edward (1)
+Berquin, M. (Arnaud) (1)
+Bunin, Ivan Alekseevich (1)
+Simon, Théodore (1)
+Irwin, Will (1)
+Voltaire (1)
+Griffiths, Arthur (1)
+Luther, Martin (1)
+Strayer, George D. (George Drayton) (1)
+Goethe, Johann Wolfgang von (1)
+Sandeau, Jules (1)
+Hamerton, Philip Gilbert (1)
+Parloa, Maria (1)
+Brumbaugh, Martin Grove (1)
+Savigny, Jean Baptiste Henri (1)
+Brooks, Henry M. (Henry Mason) (1)
+Montefiore, Moses, Sir (1)
+Sadler, Lena K. (Lena Kellogg) (1)
+Coleridge, Samuel Taylor (1)
+Montefiore, Judith Cohen, Lady (1)
+Somervell, D. C. (David Churchill) (1)
+Méry, Joseph (1)
+Brandeis, Louis Dembitz (1)
+Woodworth, Francis C. (Francis Channing) (1)
+Miller, Samuel (1)
+Vertot, abbé de (1)
+Kotzebue, August von (1)
+Sollmann, Torald Hermann (1)
+Duke, Basil Wilson (1)
+Leland, Charles Godfrey (1)
+Graves, Charles L. (Charles Larcom) (1)
+Peabody, Andrew P. (Andrew Preston) (1)
+Noble, Alden Charles (1)
+Kant, Immanuel (1)
+Ovid (1)
+Sherman, William T. (William Tecumseh) (1)
+Apostolides, Alex (1)
+Bates, Arlo (1)
+Lewis, Margaret W. (Margaret Wiseham) (1)
+Wollaston, A. F. R. (Alexander Frederick Richmond) (1)
+Goyena, Pedro (1)
+Coelho Netto, Henrique (1)
+Goudiss, C. Houston (Charles Houston) (1)
+Walter, Eugene (1)
+Hoffmann, Professor (1)
+Broadus, John Albert (1)
+Jones, Henry Festing (1)
+Gregory, Lady (1)
+Taylor, Ann (1)
+Johnston, Annie F. (Annie Fellows) (1)
+Wilkins, W. H. (William Henry) (1)
+Jephson, Robert (1)
+Milton, Archie Seldon (1)
+Mayer, Brantz (1)
+Sato, Kennosuke (1)
+Orr, Sutherland, Mrs. (1)
+Baum, L. Frank (Lyman Frank) (1)
+Ohrwalder, Josef (1)
+Mendez, Santiago (1)
+Keppel, Henry, Sir (1)
+Gladstone, W. E. (William Ewart) (1)
+Newberry, Perry (1)
+Garnet, Henry Highland (1)
+Bode, Boyd Henry (1)
+Eckman, Rena Sarah (1)
+Teresa, of Avila, Saint (1)
+Watson. G. L. (George Lennox) (1)
+Sargent, Frederick Leroy (1)
+Reade, Charles (1)
+Jastrow, Morris (1)
+Coues, Elliott (1)
+Kritzinger, P. H. (Pieter Hendrick) (1)
+Adeney, Walter F. (Walter Frederic) (1)
+Galsworthy, John (1)
+Green, Samuel G. (Samuel Gosnell) (1)
+Sainte-Beuve, Charles Augustin (1)
+Young, Ella Flagg (1)
+Albuquerque, Medeiros e (1)
+Dewey, Orville (1)
+Gilder, Jeannette L. (Jeannette Leonard) (1)
+Blackford, Katherine M. H. (Katherine Melvina Huntsinger) (1)
+Jackman, William J. (William James) (1)
+MacKaye, Steele, Mrs. (1)
+Karadžić, Vuk Stefanović (1)
+Miller, Marion Mills (1)
+Álvarez Quintero, Serafín (1)
+Chamisso, Adelbert von (1)
+Quarrier, William (1)
+Carnegie, Dale (1)
+Horn, Ernest (1)
+Hulbert, Homer B. (Homer Bezaleel) (1)
+Woodward, Dr. (Benjamin Tilghman) (1)
+Johnson, Samuel (1)
+Muir, William, Sir (1)
+Erskine, Andrew (1)
+Conway, Moncure Daniel (1)
+Durham, W. H. (Willard Higley) (1)
+Baudelaire, Charles (1)
+Dillingham, Emma Louise Smith (1)
+Huxley, Thomas Henry (1)
+Clippinger, Erle Elsworth (1)
+Kallen, Horace Meyer (1)
+McCandless, Wilson (1)
+Comfort, Will Levington (1)
+Smith, Brainard Gardner (1)
+Alcott, Louisa May (1)
+Ridpath, John Clark (1)
+Bevan, E. J. (Edward John) (1)
+Ficke, Arthur Davison (1)
+Scott, Emmett J. (Emmett Jay) (1)
+Wigram, W. A. (William Ainger) (1)
+Mazzini, Giuseppe (1)
+Turner, Dawson (1)
+Hoffenstein, Samuel (1)
+Schmeckebier, Laurence Frederick (1)
+Benham, William (1)
+Lowell, Amy (1)
+Brewer, Luther Albertus (1)
+Mills, Enos A. (1)
+Hyde, John (1)
+Gorky, Maksim (1)
+Andrew, Elizabeth Wheeler (1)
+Walker, Etta Belle (1)
+Philips, F. C. (Francis Charles) (1)
+Boisgelin de Kerdu, Pierre Marie Louis de (1)
+Fisk, W. W. (Walter Warner) (1)
+Delaney, Theresa (1)
+Goudiss, Alberta M. (Alberta Moorhouse) (1)
+Mallory, George Herbert Leigh (1)
+Wade, J. H. (Joseph Henry) (1)
+Musäus, Johann Karl August (1)
+Canby, Henry Seidel (1)
+Barrie, J. M. (James Matthew) (1)
+Bass, George (1)
+Adams, Abigail (1)
+Marlowe, Stephen (1)
+Forbes, Nevill (1)
+Hastings, E. G. (Edwin George) (1)
+Corréard, Alexandre (1)
+Hill, Lewis Webb (1)
+Humperdinck, Engelbert (1)
+Wilson, John Dover (1)
+Hall, Newton Marshall (1)
+Pratt, Anna Bronson Alcott (1)
+Findley, James S. (James Smith) (1)
+Gollancz, Victor (1)
+Machado de Assis (1)
+Willoughby, Westel Woodbury (1)
+Keller, Gottfried (1)
+Pemberton, Murdock (1)
+Peterson, Frederick (1)
+Taylor, Jane (1)
+Dwight, James (1)
+Brodrick, George C. (George Charles) (1)
+Doesticks, Q. K. Philander (1)
+Nesbit, E. (Edith) (1)
+Adams, John G. (John Greenleaf) (1)
+Seymour, Robert (1)
+Châteauneuf, Alexis de (1)
+Robinson, H. P. (Henry Peach) (1)
+Guimbaud, Louis (1)
+Salisbury, Rollin D. (1)
+Chapin, E. H. (Edwin Hubbell) (1)
+Hilliard, A. R. (Alec Rowley) (1)
+Lazarus, Adolf (1)
+Gottheil, Gustav (1)
+Hollingworth, Harry L. (Harry Levi) (1)
+Minckley, W. L. (1)
+Arbuthnot, John (1)
+Knox-Little, W. J. (William John) (1)
+Knowles, James (1)
+Walpole, Horace (1)
+McLennan, William (1)
+Gaskell, Elizabeth Cleghorn (1)
+Markwick, William Fisher (1)
+Sanborn, Charles Emerson (1)
+Morgan, Thomas Hunt (1)
+Marshall, Emma (1)
+Walling, Anna Strunsky (1)
+Beard, Mary Ritter (1)
+Cotman, John Sell (1)
+Eliot, George (1)
+Garnier, M. (Germain) (1)
+Chipiez, Charles (1)
+Benedict, Francis Gano (1)
+Palmer, Alice Freeman (1)
+Callan, Charles J. (Charles Jerome) (1)
+Langlois, Charles Victor (1)
+Vanderlip, Washington Baker (1)
+Brown, Theron (1)
+Gilchrist, Anne (Anne Burrows) (1)
+Girvin, James W. (James Walter) (1)
+Barron, James (1)
+Allen, Hervey (1)
+Fitzgerald, Percy Hetherington (1)
+Green, Anna Katharine (1)
+Avery, Harold (1)
+Brown, Fredric (1)
+Procter, Adelaide Anne (1)
+Craig, Austin (1)
+Clay, Albert Tobias (1)
+Kidder, Frederic (1)
+Ashbaugh, Ernest J. (Ernest James) (1)
+Gordon, Cora (1)
+Guizot, François (1)
+Schroeder, John Frederick (1)
+Kikuchi, Dairoku (1)
+Cecil, Florence Mary (Bootle-Wilbraham), Lady (1)
+Sarmiento, Domingo Faustino (1)
+Rosanoff, A. J. (Aaron Joshua) (1)
+Kendall, May (1)
+Kennedy, Sidney R. (Sidney Robinson) (1)
+Conway, William Martin, Sir (1)
+Bernays, Edward L. (1)
+Robinson, Mary (1)
+Andrew, Elizabeth W. (1)
+Walker, David (1)
+Riley, James Whitcomb (1)
+Fink, Bruce (1)
+Conwell, Russell H. (1)
+Brontë, Anne (1)
+Hill, Richard William (1)
+Fairchild, David (1)
+Blair, Robert (1)
+Winter, John Strange (1)
+Ballantyne, R. M. (Robert Michael) (1)
+Ostrander, Isabel (1)
+Doty, Madeleine Z. (Madeleine Zabriskie) (1)
+Hulme, T. E. (Thomas Ernest) (1)
+Gooch, Daniel W. (Daniel Wheelwright) (1)
+H. D. (Hilda Doolittle) (1)
+Jones, Easley S. (Easley Stephen) (1)
+Campanella, Tommaso (1)
+Maxfield, Albert (1)
+Dryden, John (1)
+Breckinridge, Robert J. (Robert Jefferson) (1)
+Gutiérrez, Juan María (1)
+Stanley, Edward (1)
+Neilson, Francis (1)
+Harris, Augustus (1)
+Koehler, S. R. (Sylvester Rosa) (1)
+Fuller, George D. (George Damon) (1)
+Beecher, Catharine Esther (1)
+Dulles, John Foster (1)
+Welch, Charles (1)
+Gautier, Théophile (1)
+Whitman, Walt (1)
+Ehrlich, Paul (1)
+Gold, H. L. (Horace Leonard) (1)
+Optic, Oliver (1)
+Aldington, Richard (1)
+Dwight, H. G. (Harrison Griswold) (1)
+Burns, Robert (1)
+Train, Arthur Cheney (1)
+Boyd, James Oscar (1)
+Lamon, Harry M. (1)
+Eastman, Charles Alexander (1)
+McHugh, John A. (John Ambrose) (1)
+Marcy, Mary (1)
+O'Brien, William (1)
+Finley, John H. (John Huston) (1)
+Robertson, A. T. (1)
+Spenser, Edmund (1)
+Pound, Ezra (1)
+James, James Alton (1)
+Blunt, Katharine (1)
+Manly, John Matthews (1)
+Petrunkevitch, Alexander (1)
+Cripps, Arthur Shearly (1)
+Puckner, William August (1)
+Feuillet, Octave (1)
+Wigram, Edgar Thomas Ainger (1)
+McIlwraith, Jean N. (Jean Newton) (1)
+Virchow, Rudolf (1)
+Johnson, Willis Fletcher (1)
+Lockwood, Ingersoll (1)
+Whishaw, Frederick (1)
+Granville-Barker, Harley (1)
+Burton, Isabel, Lady (1)
+Gillette, Halbert Powers (1)
+Wilmot-Buxton, H. J. (Harry John) (1)
+Stanton, Frank Lebby (1)
+Gordon, Jan (1)
+Confucius (1)
+Clarke, James Freeman (1)
+Baker, Rollin H. (Rollin Harold) (1)
+Sherwood, Margaret Pollock (1)
+Foote, Mary Hallock (1)
+Bressani, Francesco Giuseppe (1)
+Fowler, O. S. (Orson Squire) (1)
+Melville, Lewis (1)
+Greenwood, Arthur (1)
+Bell, Florence Eveleen Eleanore Olliffe, Lady (1)
+Jordan, Elizabeth Garver (1)
+Westcott, Allan F. (Allan Ferguson) (1)
+Blake, J. F. (John Frederick) (1)
+Tocqueville, Alexis de (1)
+Silverberg, Robert (1)
+Hopwood, Avery (1)
+Blasco Ibáñez, Vicente (1)
+Dana, Marvin (1)
+Kelley, Truman Lee (1)
+Columbus, Christopher (1)
+Knight, Melvin Moses (1)
+MacCracken, H. N. (Henry Noble) (1)
+Leeds, Herbert Corey (1)
+Harbison, Massy (1)
+Drouet, Juliette (1)
+Browne, William (1)
+Patrat, Joseph (1)
+Freeman, Mary Eleanor Wilkins (1)
+Cobb, Bertha B. (Bertha Browning) (1)
+Maintenon, Madame de (1)
+Blanchard, Jonathan (1)
+Grant, Ulysses S. (Ulysses Simpson) (1)
+Henderson, Arthur E. (Arthur Edward) (1)
+Blaisdell, Albert F. (Albert Franklin) (1)
+Wright, Orville (1)
+Halstead, Murat (1)
+Petrovitch, Woislav M. (1)
+Virgil (1)
+Greene, Samuel Dana (1)
+Vance, Louis Joseph (1)
+Witt, Madame de (Henriette Elizabeth) (1)
+O'Reilly, John Boyle (1)
+Townsend, W. J. (William John) (1)
+Davis, Audrey B. (1)
+Becke, Louis (1)
+Fontane, Theodor (1)
+Beattie, James (1)
+Verne, Michel (1)
+Field, Charles K. (Charles Kellogg) (1)
+Holland, W. J. (William Jacob) (1)
+Byers, George William (1)
+Martineau, James (1)
+Deane, P. E. (Percival Edgar) (1)
+Taylor, Robert Bruce (1)
+Dobie, Charles Caldwell (1)
+De Forest, John William (1)
+Hawthorne, Nathaniel (1)
+Cannon, Frank J. (1)
+Lawrance, Marion (1)
+Means, E. K. (Eldred Kurtz) (1)
+Conway, Hugh (1)
+Ward, Herbert D. (Herbert Dickinson) (1)
+Wood, John Taylor (1)
+Van Millingen, Alexander (1)
+Hines, Thomas Henry (1)
+Mercier, Louis-Sébastien (1)
+Lawrence, Eugene (1)
+Fotheringham, John Knight (1)
+Winn, Howard Elliott (1)
+Anderson, Karen (1)
+Everett, Charles Carroll (1)
+Allen, Grant (1)
+Stimson, Frederic Jesup (1)
+Combs, Josiah Henry (1)
+Alvarez de Abreu, Antonio (1)
+Sims, John (1)
+Ghose, Manmohan (1)
+Michelangelo Buonarroti (1)
+Stevens, Frank Lincoln (1)
+Bourne, Henry Eldridge (1)
+Murray, E. R. (Elsie Riach) (1)
+Benedict, Laura Estelle Watson (1)
+
+Removed 667 books.
