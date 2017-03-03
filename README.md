@@ -105,16 +105,27 @@ This project has a few parts, all of which are designed to help me curate the La
   - [ ] balanced_subject_single_author_labelled_english_only
   - [ ] balanced_birth_year_and_subject_single_author_labelled_english_only
 
-## Story
+# Story
 
 Project priorities:
 - Fully labelled
+- Balanced
 - Big
+
+There are two steps to making this dataset: pruning and balancing.
+Read on if you're interested in how they happened.
+
+## Pruning
+
+Any dataset pulled from the real world, when viewed through the lens of a particular project or goal, has plenty of missing labels and unnecessary or unexpected information.
+This one is no stranger!
+So let's start cleaning it up.
+(One project's trash is another project's treasure, so if you want the dataset backup from any step in this process, shoot me an email.)
 
 ### Starting Point
 
 I started off with a big ol' dump of books from Project Gutenberg's FTP endpoints.
-It's just a big ol' directory with a directory for each book, and (hopefully) two files per book directory.
+It's just a big, flat directory with a directory for each book, and (hopefully) two files per book directory.
 One RDF metadata file, and one UTF-8 file containing the actual book text.
 
 ```
@@ -274,7 +285,72 @@ We probably won't lose that many books anyways.
 
 ```
 $ python remove_multiple_authors.py labelled_english_only/*/*.rdf
+Processing 23238 meta files...
 
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10008 for authors White, Stewart Edward -- Adams, Samuel Hopkins
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10042 for authors Smith, Henrietta Brown -- Murray, E. R. (Elsie Riach)
+Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10056 for authors Mencius -- Confucius
+...
+
+Removed 667 books.
 ```
 
 Peek at [the log file](single_author_labelled_english_only.txt) if you wish.
+You might notice an error message - "No handlers could be found for logger "rdflib.term".
+I'm not _exactly_ sure where that's coming from, but we'll dig in later if it becomes a problem.
+
+Some pretty heavy hitting authors got removed!
+George Washington, William Shakespeare, Voltaire, David Hume, Karl Marx, John Quincy Adams, Charles Dickens, Theodore Roosevelt, Confucius...
+Now I feel a bit of remorse for removing these books.
+Hopefully those authors are represented in the books written by single authors, because it would be a shame for any model trained on this data to be devoid of their influence!
+In retrospect, though, I'm quite sure most books that were originally written in languages other than English are now gone, because the translators would likely have been listed as authors.
+Confucius, for example, predates even Old English by about a thousand years, but his writing made it passed the English-only pruning step.
+
+Oh well!
+Let's back up and measure our last pruning step.
+
+```
+$ mv labelled_english_only single_author_labelled_english_only
+$ tar -czf single_author_labelled_english_only.tar.gz single_author_labelled_english_only
+$ du -hs single_author_labelled_english_only
+8.7G    single_author_labelled_english_only
+$ ls single_author_labelled_english_only | wc -l
+22571
+```
+
+Barely lost anything!
+That's it for pruning.
+Now we'll move on to balancing.
+
+## Balancing
+
+Here I'll make sure the labels that I care about are represented evenly in the dataset.
+The labels I care about are author birth year and LCC subject.
+You'll see why I care about them in a future post, but for now, let's measure the labels in the unbalanced dataset we just made.
+
+### Preliminary Measurement
+
+TODO
+
+stats csv, aggregate stats.
+
+lcc subject vs birth year.  correlation?
+
+### Birth Year Balancing
+
+TODO
+
+if non correlated, maximize uniform distribution area by choice of cutoff years.  make rectangle big.
+
+### LCC Subject Balancing
+
+TODO
+
+## Surgery By Hand
+
+My code is imperfect, and so are my assumptions, so there are a couple of stragglers to hunt down.
+We'll look close at these anomalies and understand why they threw me off.
+
+TODO:
+- multiple title book
+- No handlers could be found for logger "rdflib.term"
