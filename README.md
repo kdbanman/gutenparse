@@ -303,8 +303,6 @@ Some pretty heavy hitting authors got removed!
 George Washington, William Shakespeare, Voltaire, David Hume, Karl Marx, John Quincy Adams, Charles Dickens, Theodore Roosevelt, Confucius...
 Now I feel a bit of remorse for removing these books.
 Hopefully those authors are represented in the books written by single authors, because it would be a shame for any model trained on this data to be devoid of their influence!
-In retrospect, though, I'm quite sure most books that were originally written in languages other than English are now gone, because the translators would likely have been listed as authors.
-Confucius, for example, predates even Old English by about a thousand years, but his writing made it passed the English-only pruning step.
 
 Oh well!
 Let's back up and measure our last pruning step.
