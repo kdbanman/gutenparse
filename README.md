@@ -99,9 +99,9 @@ This project has a few parts, all of which are designed to help me curate the La
   - run analysis script
 
 - actual progress
-  - [ ] english_only, **5 is running right now**
-  - [ ] labelled_english_only
-  - [ ] single_author_labelled_english_only
+  - [X] english_only
+  - [X] labelled_english_only
+  - [ ] single_author_labelled_english_only, 2 running right now
   - [ ] balanced_subject_single_author_labelled_english_only
   - [ ] balanced_birth_year_and_subject_single_author_labelled_english_only
 
@@ -197,8 +197,9 @@ $ mv txt_and_rdf english_only                 # the directory is no longer best 
 $ tar -czf english_only.tar.gz english_only   # compressing it in case we need it later is a good idea
 $ chmod -w english_only.tar.gz                # let's remove write permissions so we don't wreck it
 $ du -hs english_only
-13G
+13G     english_only
 $ ls english_only | wc -l
+33230
 ```
 
 We only lost 2 gigabytes and we still have tens of thousands of books.
@@ -217,7 +218,63 @@ A smarter person might've done this in a different order, but onward and upward!
 
 ```
 $ python remove_unknowns.py english_only/*/*.rdf
+Processing 33230 meta files...
 
+Removing /home/ec2-user/data/big_drive/prunes/english_only/10000 for:
+['author']
+
+Removing /home/ec2-user/data/big_drive/prunes/english_only/10001 for:
+['author']
+
+Removing /home/ec2-user/data/big_drive/prunes/english_only/1000 for:
+['author', 'lcc']
+
+...
+
+Unknowns encountered during removal:
+author (9049)
+lcc (1838)
+title (1)
+
+Removed 9992 books.
 ```
 
 Again, check out the omitted output in [the log file](labelled_english_only_log.txt).
+Looks like our friend with more than one title made it passed the language pruning - he shows up around 28K lines down the log.
+
+We lost 9992 books this time.
+Let's back up and measure again.
+
+```
+$ mv english_only labelled_english_only
+$ tar -czf labelled_english_only.tar.gz labelled_english_only
+$ chmod -w labelled_english_only.tar.gz
+$ du -hs labelled_english_only
+9.0G    labelled_english_only
+$ ls labelled_english_only | wc -l
+23238
+```
+
+It might seem silly to throw away so much data because of missing author birth dates or LCC subjects, but pre-pruned datasets are being saved so feel free to request them and prune them to your own liking!
+I think a fully labelled dataset with over twenty thousand books totalling gigabytes in size is still really cool!
+
+### Single Authors
+
+Now I'll purge any books that have more than one author.
+I feel like I'm saying this a lot, but this might seem silly.
+Why not keep those books around?
+Especially considering many single author books in the dataset might be missing an author?
+
+There are a couple of reasons.
+First, the models I plan on training are simpler with single authors.
+And given a book with two or more authors, I cannot bring myself to _choose_ which of the authors to keep.
+Even if I remove statistical bias and choose randomly, it feels like a personal and academic affront to prefer one author to another.
+Second, there's really only one reason and you already read it.
+We probably won't lose that many books anyways.
+
+```
+$ python remove_multiple_authors.py labelled_english_only/*/*.rdf
+
+```
+
+Peek at [the log file](single_author_labelled_english_only.txt) if you wish.
