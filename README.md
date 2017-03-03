@@ -99,7 +99,7 @@ This project has a few parts, all of which are designed to help me curate the La
   - run analysis script
 
 - actual progress
-  - [ ] english_only, **3 is running right now**
+  - [ ] english_only, **5 is running right now**
   - [ ] labelled_english_only
   - [ ] single_author_labelled_english_only
   - [ ] balanced_subject_single_author_labelled_english_only
@@ -110,6 +110,8 @@ This project has a few parts, all of which are designed to help me curate the La
 Project priorities:
 - Fully labelled
 - Big
+
+### Starting Point
 
 I started off with a big ol' dump of books from Project Gutenberg's FTP endpoints.
 It's just a big ol' directory with a directory for each book, and (hopefully) two files per book directory.
@@ -167,6 +169,62 @@ Specifically, I'll remove any book where English does not appear as any of the l
 
 ```
 $ python remove_non_english.py txt_and_rdf/*/*.rdf
+Processing 39807 meta files...
+
+Removing FR /home/ec2-user/data/big_drive/prunes/txt_and_rdf/10053
+Removing LA /home/ec2-user/data/big_drive/prunes/txt_and_rdf/10054
+Removing DE /home/ec2-user/data/big_drive/prunes/txt_and_rdf/10055
+...
+
+Non-English languages encountered during removal:
+FR (1801)
+FI (1561)
+DE (992)
+NL (648)
+PT (520)
+ES (405)
+IT (308)
+SV (130)
+...
+
+Removed 6577 books.
 ```
 
-To see the omitted output of that command, see [this log file](english_only_log.txt)
+To see the omitted output of that command, see [this log file](english_only_log.txt).
+You might notice ~6000 lines down that the script found a book with more than one title.
+That's surprising, but whatever.
+Data is just weird sometimes.
+We'll have a look at what that is at the end if it's still hanging around after more pruning steps.
+
+At the end of that pruning step, we lost 6577 books.
+Let's back that directory up and measure it.
+
+```
+$ mv txt_and_rdf english_only                 # the directory is no longer best described as text and rdf
+$ tar -czf english_only.tar.gz english_only   # compressing it in case we need it later is a good idea
+$ chmod -w english_only.tar.gz                # let's remove write permissions so we don't wreck it
+$ du -hs english_only
+13G
+$ ls english_only | wc -l
+```
+
+We only lost 2 gigabytes and we still have tens of thousands of books.
+Neat!
+
+### No Unknowns
+
+Next we'll remove any book that's missing metadata we're interested in.
+It would be cool to exploit the unlabelled data with some unsupervised pretraining or something, but that's not what I have in mind for this dataset.
+For now, let's just drop all the unlabelled data.
+
+Specifically, books will be removed if they aren't labelled with a title, author, author birth year, language, or Library of Congress Classification.
+(LCC, which is just a fancy acronym for subject.)
+_Technically_, books with unknown languages are already gone from the previous step.
+A smarter person might've done this in a different order, but onward and upward!
+
+```
+$ python remove_unknowns.py english_only/*/*.rdf
+
+```
+
+Again, check out the omitted output in [the log file](labelled_english_only_log.txt).
