@@ -6,7 +6,7 @@ from collections import Counter
 import gutenparse
 
 if __name__ == "__main__":
-  all_author_birth_decades = Counter()
+  all_author_birth_years = Counter()
   all_languages = Counter()
   all_lcc = Counter()
   all_lcsh = Counter()
@@ -41,14 +41,7 @@ if __name__ == "__main__":
     print ""
     print ""
 
-    author_birth_decades = []
-    for author_birth_year in author_birth_years:
-      if type(author_birth_year) == int:
-        author_birth_decades.append(int(author_birth_year / 10) * 10)
-      else:
-        author_birth_decades.append(author_birth_year)
-
-    all_author_birth_decades.update(author_birth_decades)
+    all_author_birth_years.update(author_birth_years)
     all_languages.update(languages)
     all_lcc.update(lcc)
     all_lcsh.update(lcsh)
@@ -83,8 +76,8 @@ if __name__ == "__main__":
   print_counter(all_lcc)
 
   print ""
-  print "ALL AUTHOR BIRTH DECADES:"
-  print_counter(all_author_birth_decades)
+  print "ALL AUTHOR BIRTH YEARS:"
+  print_counter(all_author_birth_years)
 
   print ""
   print "ALL LANGUAGES:"
