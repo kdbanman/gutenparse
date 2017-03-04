@@ -345,7 +345,7 @@ TODO output
 
 There are two files output at this stage.
 First, the aggregate stats script gives a breakdown of each book's labels and some aggregate statistics in [its log](pruned_stats_log.txt).
-Second, [a CSV file](pruned_books.csv) is output so that we can do some easy analysis with nice tools.
+Second, [a CSV file](pruned_stats.csv) is output so that we can do some easy analysis with nice tools.
 
 TODO scp in the stats csv, aggregate stats.
 
