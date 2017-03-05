@@ -330,12 +330,12 @@ Now we'll move on to balancing.
 ## Balancing
 
 Here I'll make sure the labels that I care about are represented evenly in the dataset.
-The labels I care about are author birth year and LCC subject.
+The labels I care about are author birth year and LCC subject
 You'll see why I care about them in a future post, but for now, let's measure the labels in the unbalanced dataset we just made.
 
 ### Preliminary Measurement
 
-TODO
+Now that the dataset is fully labelled, let's see what we have.
 
 ```
 $ python aggregate_stats.py single_author_labelled_english_only/*/*.rdf
@@ -347,15 +347,56 @@ There are two files output at this stage.
 First, the aggregate stats script gives a breakdown of each book's labels and some aggregate statistics in [its log](pruned_stats_log.txt).
 Second, [a CSV file](pruned_stats.csv) is output so that we can do some easy analysis with nice tools.
 
-TODO scp in the stats csv, aggregate stats.
+First, let's see how many books we have across all of the author birth years.
 
-lcc subject vs birth year.  correlation?
+- histogram of birth year https://jsfiddle.net/hsy431cr/9/
+
+Seems we have quite the concentration of authors born in the 1800s!
+(Anyone want to guess when the Gutenberg printing press emerged?)
+Let's toss that histogram on a log scale so we can see the lower frequency data, and lets break it down into many more buckets.
+
+- log freq histogram of birth year https://jsfiddle.net/hsy431cr/10/
+
+The buckets with a count of zero or one don't show up at all on the log scale graph, but it's still a helpful view.
+I'm quite surprised that we have dozens of books over 2000 years old.
+Neat!
+
+Of course counting the books isn't the only way to measure, because the books have different sizes.
+Here's a plot of the total amount of text across all books in the same histogram buckets.
+
+- log freq histogram of book size total TODO fiddle
+
+- histogram of total book size per author birth year (needs another csv column)
+
+- bar chart count of alphabetical LCC
+- bar chart count of only first LCC letter
+- lcc subject vs birth year.  correlation?
 
 ### Birth Year Balancing
 
 TODO
 
-if non correlated, maximize uniform distribution area by choice of cutoff years.  make rectangle big.
+For the particular LabGub dataset that we're building, though, I'm pretty sure that very old stuff is going to disappear.
+The goal here is balanced representation across a range of years in order keep training on this dataset as accessible as possible.
+The ideal balance would be a completely uniform distribution over a range of years that is as countinuous as possible.
+In other words, we need to construct a rectangle that rises from the horizontal axis and is circumscribed by our data's distribution, and fill it with a subset of our data.
+
+There are many such rectangles, but maximizing the number of books we keep means we need to maximize the area of the rectangle.
+It's pretty obvious from the histograms that we won't be using any books written by authors born before 1500, so let's prune away everything but that slice.
+
+```
+$ python remove_pre_1500.py pruned_stats.csv
+TODO
+```
+
+Notice I've switched to using the CSV file to cycle through the books.
+It's _much_ faster than reading, parsing, and querying an RDF graph file for each book.
+As usual, I've posted [the removal log](post_1500_pruned_log.txt) for the curious.
+
+For the histogram, we'll use a linear scale for the histogram again so that our intuitive sense of area is useful here.
+
+- histogram of year of post_1500_prune
+
 
 ### LCC Subject Balancing
 
@@ -369,3 +410,19 @@ We'll look close at these anomalies and understand why they threw me off.
 TODO:
 - multiple title book
 - No handlers could be found for logger "rdflib.term"
+- 900/pg900.txt.utf8:
+   ```
+   <u+feff>
+   attention:
+
+   the xml file included in this set has the following warning about the folio file (900-n.nfo):
+
+   do not download !!! see #892 for html format, #733 for plain text.
+   the folio format is obsolete. you won't be able to display the file.
+
+   if you are tempted to try and download it anyway, you may expect your computer to crash!
+
+   these files are being retained in the project gutenberg collection as examples of the obsolete formats of the early days.
+
+   dw
+   ```
