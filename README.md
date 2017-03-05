@@ -295,7 +295,7 @@ Removing /home/ec2-user/data/big_drive/prunes/labelled_english_only/10056 for au
 Removed 667 books.
 ```
 
-Peek at [the log file](single_author_labelled_english_only.txt) if you wish.
+Peek at [the log file](single_author_labelled_english_only_log.txt) if you wish.
 You might notice an error message - "No handlers could be found for logger "rdflib.term".
 I'm not _exactly_ sure where that's coming from, but we'll dig in later if it becomes a problem.
 Also, notice that the book with multiple titles is gone now!
