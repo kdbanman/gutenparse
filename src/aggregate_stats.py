@@ -13,7 +13,7 @@ if __name__ == "__main__":
 
   csv_file = open('stats.csv', 'w')
   csv_writer = csv.writer(csv_file)
-  csv_writer.writerow(("Title", "Authors", "Author Birth Years", "Languages", "LCC Subjects"))
+  csv_writer.writerow(("ID", "Size (KB)", "Title", "Authors", "Author Birth Years", "Languages", "LCC Subjects"))
 
   def add_to_stats(meta_dict, meta_file_name):
     print meta_file_name
@@ -24,8 +24,10 @@ if __name__ == "__main__":
     languages = meta_dict["languages"]
     lcc = meta_dict["lcc_subjects"]
     lcsh = meta_dict["lcsh_subjects"]
+    book_size_kb = meta_dict["book_size_kb"]
+    book_id = meta_dict["book_id"]
 
-    csv_writer.writerow((title, " -- ".join(author_names), " ".join(map(str, author_birth_years)), ' '.join(languages), ' '.join(lcc)))
+    csv_writer.writerow((book_id, book_size_kb, title, " -- ".join(author_names), " ".join(map(str, author_birth_years)), ' '.join(languages), ' '.join(lcc)))
 
     print "TITLE:    " + title
     for author in meta_dict["authors"]:

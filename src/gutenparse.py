@@ -1,6 +1,7 @@
 
 import rdflib
 import sys
+import os
 
 def get_single_result(g, query_string, label):
     """
@@ -114,6 +115,17 @@ def get_lcsh(g):
 
   return get_multiple_results(g, query_string, calculate_result_list)
 
+def get_book_size_kb(meta_file_name):
+  book_directory = os.path.dirname(os.path.realpath(meta_file_name))
+  id = get_book_id(meta_file_name)
+  book_file = os.path.join(book_directory, id + ".txt.utf8")
+
+  return os.path.getsize(book_file) / 1024
+
+def get_book_id(meta_file_name):
+  return os.path.splitext(os.path.basename(meta_file_name))[0]
+
+
 def enumerate_parsed(meta_file_names, callback):
   print "Processing " + str(len(meta_file_names)) + " meta files...\n"
 
@@ -126,13 +138,17 @@ def enumerate_parsed(meta_file_names, callback):
     languages = get_languages(g)
     lcc = get_lcc(g)
     lcsh = get_lcsh(g)
+    book_size_kb = get_book_size_kb(meta_file_name)
+    book_id = get_book_id(meta_file_name)
 
     meta_dict = {
     "title": title,
     "authors": authors,
     "languages": languages,
     "lcc_subjects": lcc,
-    "lcsh_subjects": lcsh
+    "lcsh_subjects": lcsh,
+    "book_size_kb": book_size_kb,
+    "book_id": book_id
     }
 
     callback(meta_dict, meta_file_name)
