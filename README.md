@@ -339,13 +339,45 @@ Now that the dataset is fully labelled, let's see what we have.
 
 ```
 $ python aggregate_stats.py single_author_labelled_english_only/*/*.rdf
+Processing 22571 meta files...
 
-TODO output
+pruned/10002/pg10002.rdf
+TITLE:    The House on the Borderland
+AUTHOR:   (1877) Hodgson, William Hope
+LANGUAGES:     en
+----
+LCC SUBJECT:      PR
+----
+LCSH SUBJECT:  Science fiction
+
+
+pruned/10003/pg10003.rdf
+TITLE:    My First Years as a Frenchwoman, 1876-1879
+AUTHOR:   (1833) Waddington, Mary King
+LANGUAGES:     en
+...
+
+ALL LCC SUBJECTS:
+PS (5137)
+PR (4633)
+PZ (2959)
+...
+
+ALL AUTHOR BIRTH YEARS:
+1862 (555)
+1863 (499)
+1866 (459)
+...
+
+ALL LANGUAGES:
+en (22571)
+es (10)
+fr (9)
+...
 ```
 
-There are two files output at this stage.
-First, the aggregate stats script gives a breakdown of each book's labels and some aggregate statistics in [its log](pruned_stats_log.txt).
-Second, [a CSV file](pruned_stats.csv) is output so that we can do some easy analysis with nice tools.
+See the omitted output with each book and some aggregate statistics in [its output log](pruned_stats_log.txt).
+There is also [a CSV file](pruned_stats.csv) with all the books and labels that we can do some easy analysis with nice tools.
 
 First, let's see how many books we have across all of the author birth years.
 
@@ -361,12 +393,10 @@ The buckets with a count of zero or one don't show up at all on the log scale gr
 I'm quite surprised that we have dozens of books over 2000 years old.
 Neat!
 
-Of course counting the books isn't the only way to measure, because the books have different sizes.
+Of course, counting the books isn't the only way to measure, because the books have different sizes.
 Here's a plot of the total amount of text across all books in the same histogram buckets.
 
-- log freq histogram of book size total TODO fiddle
-
-- histogram of total book size per author birth year (needs another csv column)
+- log freq histogram of total book size total TODO fiddle
 
 - bar chart count of alphabetical LCC
 - bar chart count of only first LCC letter
